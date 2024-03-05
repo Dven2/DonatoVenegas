@@ -1,0 +1,16 @@
+from bs4 import BeautifulSoup
+import requests
+
+try:
+    website = 'https://sounds.mx/'  # URL de ejemplo, puedes cambiarla
+    results = requests.get(website)
+    results.raise_for_status()  # Verificar si hay errores en la solicitud
+    Content = results.text
+
+    soup = BeautifulSoup(Content, 'lxml')
+    print(soup.prettify())
+
+except requests.exceptions.RequestException as e:
+    print("Error al hacer la solicitud:", e)
+except Exception as e:
+    print("Error:", e)

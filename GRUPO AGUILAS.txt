@@ -1,0 +1,586 @@
+GRUPO AGUILAS SEGURIDAD        
+
+    <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Traslado de personal
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Protocolo de rutas seguras
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Unidades de reciente modelo
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Traslado ejecutivo VIP
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Choferes capacitados en manejo evasivo y defensivo
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Escolta
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Personal Armado
+           </span>
+          </li>
+          <li class="elementor-icon-list-item">
+           <span class="elementor-icon-list-icon">
+            <i aria-hidden="true" class="fas fa-check">
+            </i>
+           </span>
+           <span class="elementor-icon-list-text">
+            Unidades Blindadas
+           </span>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-1513deb elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="1513deb" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-ec8f5ce elementor-widget elementor-widget-html" data-element_type="widget" data-id="ec8f5ce" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <style id="elementor-post-236">
+   .elementor-236 .elementor-element.elementor-element-6e50bc0b:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-236 .elementor-element.elementor-element-6e50bc0b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://grupoaguilas.com/wp-content/uploads/2021/12/GA_int-digital.jpeg");background-position:center center;background-size:cover;}.elementor-236 .elementor-element.elementor-element-6e50bc0b > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-236 .elementor-element.elementor-element-6e50bc0b > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-236 .elementor-element.elementor-element-4fadc528 > .elementor-element-populated{padding:70px 40px 70px 40px;}.elementor-236 .elementor-element.elementor-element-676d45c .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:800;}.elementor-236 .elementor-element.elementor-element-316ed5ac{color:#000000;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;}.elementor-236 .elementor-element.elementor-element-5371415 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;text-decoration:none;background-color:#FBB03B;border-radius:0px 0px 0px 0px;}.elementor-236 .elementor-element.elementor-element-5371415 .elementor-button:hover, .elementor-236 .elementor-element.elementor-element-5371415 .elementor-button:focus{background-color:#000000;}#elementor-popup-modal-236 .dialog-message{width:820px;height:auto;}#elementor-popup-modal-236{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-236 .dialog-close-button{display:flex;}#elementor-popup-modal-236 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-236 .elementor-element.elementor-element-6e50bc0b.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-236 .elementor-element.elementor-element-6e50bc0b.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-236 .elementor-element.elementor-element-b71b950{text-align:center;}}@media(max-width:767px){.elementor-236 .elementor-element.elementor-element-6e50bc0b > .elementor-element-populated{padding:0px 0px 0px 0px;}}
+  </style>
+  <div class="elementor elementor-236 elementor-location-popup" data-elementor-id="236" data-elementor-post-type="elementor_library" data-elementor-settings='{"entrance_animation":"fadeInDown","exit_animation":"fadeInDown","open_selector":"a[href=\"#inteligencia\"]","entrance_animation_duration":{"unit":"px","size":1.2,"sizes":[]},"a11y_navigation":"yes","timing":[]}' data-elementor-type="popup">
+   <section class="elementor-section elementor-top-section elementor-element elementor-element-1ace8767 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="1ace8767">
+    <div class="elementor-container elementor-column-gap-default">
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6e50bc0b" data-element_type="column" data-id="6e50bc0b" data-settings='{"background_background":"classic"}'>
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-b71b950 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="b71b950" data-widget_type="image.default">   
+        <div class="elementor-widget-container">
+         <img alt="" class="attachment-full size-full wp-image-365" height="889" loading="lazy" sizes="(max-width: 1333px) 100vw, 1333px" src="https://grupoaguilas.com/wp-content/uploads/2021/12/GA_int-digital.jpeg" srcset="https://grupoaguilas.com/wp-content/uploads/2021/12/GA_int-digital.jpeg 1333w, https://grupoaguilas.com/wp-content/uploads/2021/12/GA_int-digital-970x647.jpeg 970w, https://grupoaguilas.com/wp-content/uploads/2021/12/GA_int-digital-768x512.jpeg 768w" width="1333"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4fadc528" data-element_type="column" data-id="4fadc528">
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-676d45c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="676d45c" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h3 class="elementor-heading-title elementor-size-default">
+          INTELIGENCIA
+          <br/>
+          DIGITAL
+         </h3>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-316ed5ac elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="316ed5ac" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+         <p>
+          En Grupo Águilas nos enfocamos en la innovación de procesos y desarrollamos herramientas tecnológicas que le permiten cumplir con sus diferentes procesos de seguridad de una manera más rápida y eficaz como lo son:
+         </p>
+         <ul>
+          <li>
+           Botón de pánico
+          </li>
+          <li>
+           Control de patios
+          </li>
+          <li>
+           Análisis de riesgos
+          </li>
+          <li>
+           Cuestionario COVID
+          </li>
+          <li>
+           CIAA
+          </li>
+          <li>
+           Control de vehículos
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-5371415 elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="5371415" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-556240d elementor-widget elementor-widget-html" data-element_type="widget" data-id="556240d" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <style id="elementor-post-242">
+   .elementor-242 .elementor-element.elementor-element-5337bc02:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-242 .elementor-element.elementor-element-5337bc02 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://grupoaguilas.com/wp-content/uploads/2021/12/GA_k9.jpg");background-position:center center;background-size:cover;}.elementor-242 .elementor-element.elementor-element-5337bc02 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-242 .elementor-element.elementor-element-5337bc02 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-242 .elementor-element.elementor-element-61649342 > .elementor-element-populated{padding:70px 40px 70px 40px;}.elementor-242 .elementor-element.elementor-element-1a25ea43 .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:800;}.elementor-242 .elementor-element.elementor-element-4886ee41{color:#000000;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;}.elementor-242 .elementor-element.elementor-element-00f7aa1 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;text-decoration:none;background-color:#FBB03B;border-radius:0px 0px 0px 0px;}.elementor-242 .elementor-element.elementor-element-00f7aa1 .elementor-button:hover, .elementor-242 .elementor-element.elementor-element-00f7aa1 .elementor-button:focus{background-color:#000000;}#elementor-popup-modal-242 .dialog-message{width:820px;height:auto;}#elementor-popup-modal-242{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-242 .dialog-close-button{display:flex;}#elementor-popup-modal-242 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-242 .elementor-element.elementor-element-5337bc02.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-242 .elementor-element.elementor-element-5337bc02.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-242 .elementor-element.elementor-element-8a7a9c5{text-align:center;}}@media(max-width:767px){.elementor-242 .elementor-element.elementor-element-5337bc02 > .elementor-element-populated{padding:0px 0px 0px 0px;}}
+  </style>
+  <div class="elementor elementor-242 elementor-location-popup" data-elementor-id="242" data-elementor-post-type="elementor_library" data-elementor-settings='{"entrance_animation":"fadeInDown","exit_animation":"fadeInDown","entrance_animation_duration":{"unit":"px","size":1.2,"sizes":[]},"a11y_navigation":"yes","timing":[]}' data-elementor-type="popup">
+   <section class="elementor-section elementor-top-section elementor-element elementor-element-47ea0080 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="47ea0080">
+    <div class="elementor-container elementor-column-gap-default">
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5337bc02" data-element_type="column" data-id="5337bc02" data-settings='{"background_background":"classic"}'>
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-8a7a9c5 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="8a7a9c5" data-widget_type="image.default">   
+        <div class="elementor-widget-container">
+         <img alt="" class="attachment-full size-full wp-image-363" height="889" loading="lazy" sizes="(max-width: 1333px) 100vw, 1333px" src="https://grupoaguilas.com/wp-content/uploads/2021/12/GA_k9.jpg" srcset="https://grupoaguilas.com/wp-content/uploads/2021/12/GA_k9.jpg 1333w, https://grupoaguilas.com/wp-content/uploads/2021/12/GA_k9-970x647.jpg 970w, https://grupoaguilas.com/wp-content/uploads/2021/12/GA_k9-768x512.jpg 768w" width="1333"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61649342" data-element_type="column" data-id="61649342">
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-1a25ea43 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="1a25ea43" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h3 class="elementor-heading-title elementor-size-default">
+          UNIDADES K9
+         </h3>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-4886ee41 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="4886ee41" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+         <p>
+          Entrenadores certificados se aseguran que nuestras unidades caninas cuenten con un entrenamiento profesional las unidades caninas pueden capacitarse para detectar: narcóticos, explosivos y dinero.
+         </p>
+         <p>
+          Realizamos revisiones preventivas, disuasivas en cajas de tráiler, áreas comunes, producción, lockers, etc.
+         </p>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-00f7aa1 elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="00f7aa1" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-209d6f4 elementor-widget elementor-widget-html" data-element_type="widget" data-id="209d6f4" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <style id="elementor-post-614">
+   .elementor-614 .elementor-element.elementor-element-4538d580:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-614 .elementor-element.elementor-element-4538d580 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://grupoaguilas.com/wp-content/uploads/2022/02/IMAGEN-CAPACITACIONES-2022.jpg");background-position:center center;background-size:cover;}.elementor-614 .elementor-element.elementor-element-4538d580 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-614 .elementor-element.elementor-element-4538d580 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-614 .elementor-element.elementor-element-596dac0a > .elementor-element-populated{padding:70px 40px 70px 40px;}.elementor-614 .elementor-element.elementor-element-6909b2c1 .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:800;}.elementor-614 .elementor-element.elementor-element-4f32f5f1 .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-size:17px;font-weight:800;line-height:1.1em;}.elementor-614 .elementor-element.elementor-element-272adb3b{color:#000000;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;}.elementor-614 .elementor-element.elementor-element-5371868 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;text-decoration:none;background-color:#FBB03B;border-radius:0px 0px 0px 0px;}.elementor-614 .elementor-element.elementor-element-5371868 .elementor-button:hover, .elementor-614 .elementor-element.elementor-element-5371868 .elementor-button:focus{background-color:#000000;}#elementor-popup-modal-614 .dialog-message{width:820px;height:auto;}#elementor-popup-modal-614{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-614 .dialog-close-button{display:flex;}#elementor-popup-modal-614 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-614 .elementor-element.elementor-element-4538d580.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-614 .elementor-element.elementor-element-4538d580.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-614 .elementor-element.elementor-element-6da388c8{text-align:center;}}@media(max-width:767px){.elementor-614 .elementor-element.elementor-element-4538d580 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-614 .elementor-element.elementor-element-6909b2c1 .elementor-heading-title{font-size:22px;}.elementor-614 .elementor-element.elementor-element-4f32f5f1 .elementor-heading-title{font-size:14px;line-height:1.2em;}}
+  </style>
+  <div class="elementor elementor-614 elementor-location-popup" data-elementor-id="614" data-elementor-post-type="elementor_library" data-elementor-settings='{"entrance_animation":"fadeInDown","exit_animation":"fadeInDown","entrance_animation_duration":{"unit":"px","size":1.2,"sizes":[]},"a11y_navigation":"yes","timing":[]}' data-elementor-type="popup">
+   <section class="elementor-section elementor-top-section elementor-element elementor-element-66459079 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="66459079">
+    <div class="elementor-container elementor-column-gap-default">
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4538d580" data-element_type="column" data-id="4538d580" data-settings='{"background_background":"classic"}'>
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-6da388c8 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="6da388c8" data-widget_type="image.default"> 
+        <div class="elementor-widget-container">
+         <img alt="" class="attachment-full size-full wp-image-640" height="800" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" src="https://grupoaguilas.com/wp-content/uploads/2022/02/IMAGEN-CAPACITACIONES-2022.jpg" srcset="https://grupoaguilas.com/wp-content/uploads/2022/02/IMAGEN-CAPACITACIONES-2022.jpg 1200w, https://grupoaguilas.com/wp-content/uploads/2022/02/IMAGEN-CAPACITACIONES-2022-970x647.jpg 970w, https://grupoaguilas.com/wp-content/uploads/2022/02/IMAGEN-CAPACITACIONES-2022-768x512.jpg 768w" width="1200"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-596dac0a" data-element_type="column" data-id="596dac0a">
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-6909b2c1 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="6909b2c1" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h3 class="elementor-heading-title elementor-size-default">
+          CAPACITACIONES
+         </h3>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-4f32f5f1 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4f32f5f1" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h4 class="elementor-heading-title elementor-size-default">
+          Capacite a su equipo rápido y de manera efectiva
+         </h4>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-272adb3b elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="272adb3b" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+         <p>
+          En Grupo Águilas tenemos
+          <strong>
+           cursos certificados de primeros auxilios, liderazgo, combate contra incendios y más,
+          </strong>
+          para ayudarle a mantener a todo su equipo tanto operativo como administrativo preparado para un mejor desempeño o estar preparado en caso de emergencias.
+         </p>
+         <p>
+          <strong>
+           Nuestras capacitaciones otorgan certificación DC3 a todos los participantes.
+          </strong>
+         </p>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-5371868 elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="5371868" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-fc2c1eb elementor-widget elementor-widget-html" data-element_type="widget" data-id="fc2c1eb" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <style id="elementor-post-248">
+   .elementor-248 .elementor-element.elementor-element-244f0b84:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-248 .elementor-element.elementor-element-244f0b84 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://grupoaguilas.com/wp-content/uploads/2021/12/GA_investigaciones.jpeg");background-position:center center;background-size:cover;}.elementor-248 .elementor-element.elementor-element-244f0b84 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-248 .elementor-element.elementor-element-244f0b84 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-248 .elementor-element.elementor-element-258bf9ce > .elementor-element-populated{padding:70px 40px 70px 40px;}.elementor-248 .elementor-element.elementor-element-28a85d23 .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:800;}.elementor-248 .elementor-element.elementor-element-335dd0b0{color:#000000;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;}.elementor-248 .elementor-element.elementor-element-36017b0 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;text-decoration:none;background-color:#FBB03B;border-radius:0px 0px 0px 0px;}.elementor-248 .elementor-element.elementor-element-36017b0 .elementor-button:hover, .elementor-248 .elementor-element.elementor-element-36017b0 .elementor-button:focus{background-color:#000000;}#elementor-popup-modal-248 .dialog-message{width:820px;height:auto;}#elementor-popup-modal-248{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-248 .dialog-close-button{display:flex;}#elementor-popup-modal-248 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-248 .elementor-element.elementor-element-244f0b84.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-248 .elementor-element.elementor-element-244f0b84.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-248 .elementor-element.elementor-element-b79e0d9{text-align:center;}}@media(max-width:767px){.elementor-248 .elementor-element.elementor-element-244f0b84 > .elementor-element-populated{padding:0px 0px 0px 0px;}}
+  </style>
+  <div class="elementor elementor-248 elementor-location-popup" data-elementor-id="248" data-elementor-post-type="elementor_library" data-elementor-settings='{"entrance_animation":"fadeInDown","exit_animation":"fadeInDown","entrance_animation_duration":{"unit":"px","size":1.2,"sizes":[]},"a11y_navigation":"yes","timing":[]}' data-elementor-type="popup">
+   <section class="elementor-section elementor-top-section elementor-element elementor-element-1a8ada5a elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="1a8ada5a">
+    <div class="elementor-container elementor-column-gap-default">
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-244f0b84" data-element_type="column" data-id="244f0b84" data-settings='{"background_background":"classic"}'>
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-b79e0d9 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="b79e0d9" data-widget_type="image.default">   
+        <div class="elementor-widget-container">
+         <img alt="" class="attachment-full size-full wp-image-361" height="889" loading="lazy" sizes="(max-width: 1333px) 100vw, 1333px" src="https://grupoaguilas.com/wp-content/uploads/2021/12/GA_investigaciones.jpeg" srcset="https://grupoaguilas.com/wp-content/uploads/2021/12/GA_investigaciones.jpeg 1333w, https://grupoaguilas.com/wp-content/uploads/2021/12/GA_investigaciones-970x647.jpeg 970w, https://grupoaguilas.com/wp-content/uploads/2021/12/GA_investigaciones-768x512.jpeg 768w" width="1333"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-258bf9ce" data-element_type="column" data-id="258bf9ce">
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-28a85d23 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="28a85d23" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h3 class="elementor-heading-title elementor-size-default">
+          INVESTIGACIONES
+         </h3>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-335dd0b0 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="335dd0b0" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+         <p>
+          Nuestro equipo de investigación está altamente capacitado para resolver investigaciones en todos los niveles. Trabajamos c/ la más alta tecnología, cámaras y micrófonos ocultos, diferentes métodos de entrevista para obtener información.
+         </p>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-36017b0 elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="36017b0" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-482bcf4 elementor-widget elementor-widget-html" data-element_type="widget" data-id="482bcf4" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <style id="elementor-post-589">
+   .elementor-589 .elementor-element.elementor-element-711c0f34:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-589 .elementor-element.elementor-element-711c0f34 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://grupoaguilas.com/wp-content/uploads/2022/02/boton-panico.jpg");background-position:top center;background-size:cover;}.elementor-589 .elementor-element.elementor-element-711c0f34 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-589 .elementor-element.elementor-element-711c0f34 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-589 .elementor-element.elementor-element-237956fc > .elementor-element-populated{padding:70px 40px 70px 40px;}.elementor-589 .elementor-element.elementor-element-7ea96cc .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:800;}.elementor-589 .elementor-element.elementor-element-5453e34 .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-size:17px;font-weight:800;line-height:1.1em;}.elementor-589 .elementor-element.elementor-element-3834180{color:#000000;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;}.elementor-589 .elementor-element.elementor-element-5b67594 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;text-decoration:none;background-color:#FBB03B;border-radius:0px 0px 0px 0px;}.elementor-589 .elementor-element.elementor-element-5b67594 .elementor-button:hover, .elementor-589 .elementor-element.elementor-element-5b67594 .elementor-button:focus{background-color:#000000;}#elementor-popup-modal-589 .dialog-message{width:820px;height:auto;}#elementor-popup-modal-589{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-589 .dialog-close-button{display:flex;}#elementor-popup-modal-589 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-589 .elementor-element.elementor-element-711c0f34.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-589 .elementor-element.elementor-element-711c0f34.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-589 .elementor-element.elementor-element-795a6a74{text-align:center;}}@media(max-width:767px){.elementor-589 .elementor-element.elementor-element-711c0f34 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-589 .elementor-element.elementor-element-7ea96cc .elementor-heading-title{font-size:22px;}.elementor-589 .elementor-element.elementor-element-5453e34 .elementor-heading-title{font-size:14px;line-height:1.2em;}}
+  </style>
+  <div class="elementor elementor-589 elementor-location-popup" data-elementor-id="589" data-elementor-post-type="elementor_library" data-elementor-settings='{"entrance_animation":"fadeInDown","exit_animation":"fadeInDown","entrance_animation_duration":{"unit":"px","size":1.2,"sizes":[]},"a11y_navigation":"yes","timing":[]}' data-elementor-type="popup">
+   <section class="elementor-section elementor-top-section elementor-element elementor-element-41683196 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="41683196">
+    <div class="elementor-container elementor-column-gap-default">
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-711c0f34" data-element_type="column" data-id="711c0f34" data-settings='{"background_background":"classic"}'>
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-795a6a74 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="795a6a74" data-widget_type="image.default"> 
+        <div class="elementor-widget-container">
+         <img alt="" class="attachment-full size-full wp-image-528" height="665" loading="lazy" src="https://grupoaguilas.com/wp-content/uploads/2022/02/boton-panico.jpg" width="536"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-237956fc" data-element_type="column" data-id="237956fc">
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-7ea96cc elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7ea96cc" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h3 class="elementor-heading-title elementor-size-default">
+          BOTÓN DE PÁNICO
+         </h3>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-5453e34 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="5453e34" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h4 class="elementor-heading-title elementor-size-default">
+          La importancia de la seguridad de su personal y activos
+         </h4>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-3834180 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="3834180" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+         <p>
+          Nuestra misión es
+          <strong>
+           proteger a las personas y los activos de la organización, mitigando el impacto negativo de un evento crítico que podría dañar a personas, así como la reputación de su organización
+          </strong>
+          y sirviendo como un apoyo externo de la resiliencia al riesgo, mediante nuestro botón de pánico que se encuentra enlazado a nuestra central de monitoreo Grupo Águilas para brindarle atención inmediata.
+         </p>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-5b67594 elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="5b67594" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-cc676f2 elementor-widget elementor-widget-html" data-element_type="widget" data-id="cc676f2" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <style id="elementor-post-606">
+   .elementor-606 .elementor-element.elementor-element-44eaa30e:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-606 .elementor-element.elementor-element-44eaa30e > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://grupoaguilas.com/wp-content/uploads/2022/02/monitoreo.jpg");background-position:center center;background-size:cover;}.elementor-606 .elementor-element.elementor-element-44eaa30e > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-606 .elementor-element.elementor-element-44eaa30e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-606 .elementor-element.elementor-element-3b129eab > .elementor-element-populated{padding:70px 40px 70px 40px;}.elementor-606 .elementor-element.elementor-element-dab03d0 .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-weight:800;}.elementor-606 .elementor-element.elementor-element-7eae0cfc .elementor-heading-title{color:#000000;font-family:"Montserrat", Sans-serif;font-size:17px;font-weight:800;line-height:1.1em;}.elementor-606 .elementor-element.elementor-element-32d962aa{color:#000000;font-family:"Roboto", Sans-serif;font-size:13px;font-weight:400;}.elementor-606 .elementor-element.elementor-element-d536117 .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;text-decoration:none;background-color:#FBB03B;border-radius:0px 0px 0px 0px;}.elementor-606 .elementor-element.elementor-element-d536117 .elementor-button:hover, .elementor-606 .elementor-element.elementor-element-d536117 .elementor-button:focus{background-color:#000000;}#elementor-popup-modal-606 .dialog-message{width:820px;height:auto;}#elementor-popup-modal-606{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-606 .dialog-close-button{display:flex;}#elementor-popup-modal-606 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:1024px){.elementor-bc-flex-widget .elementor-606 .elementor-element.elementor-element-44eaa30e.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-606 .elementor-element.elementor-element-44eaa30e.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-606 .elementor-element.elementor-element-772a2d3d{text-align:center;}}@media(max-width:767px){.elementor-606 .elementor-element.elementor-element-44eaa30e > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-606 .elementor-element.elementor-element-dab03d0 .elementor-heading-title{font-size:22px;}.elementor-606 .elementor-element.elementor-element-7eae0cfc .elementor-heading-title{font-size:14px;line-height:1.2em;}}
+  </style>
+  <div class="elementor elementor-606 elementor-location-popup" data-elementor-id="606" data-elementor-post-type="elementor_library" data-elementor-settings='{"entrance_animation":"fadeInDown","exit_animation":"fadeInDown","entrance_animation_duration":{"unit":"px","size":1.2,"sizes":[]},"a11y_navigation":"yes","timing":[]}' data-elementor-type="popup">
+   <section class="elementor-section elementor-top-section elementor-element elementor-element-38771bfb elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="38771bfb">
+    <div class="elementor-container elementor-column-gap-default">
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-44eaa30e" data-element_type="column" data-id="44eaa30e" data-settings='{"background_background":"classic"}'>
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-772a2d3d elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-image" data-element_type="widget" data-id="772a2d3d" data-widget_type="image.default"> 
+        <div class="elementor-widget-container">
+         <img alt="" class="attachment-full size-full wp-image-529" height="665" loading="lazy" src="https://grupoaguilas.com/wp-content/uploads/2022/02/monitoreo.jpg" width="536"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3b129eab" data-element_type="column" data-id="3b129eab">
+      <div class="elementor-widget-wrap elementor-element-populated">
+       <div class="elementor-element elementor-element-dab03d0 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="dab03d0" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h3 class="elementor-heading-title elementor-size-default">
+          CENTRAL DE MONITOREO
+         </h3>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-7eae0cfc elementor-widget elementor-widget-heading" data-element_type="widget" data-id="7eae0cfc" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+         <h4 class="elementor-heading-title elementor-size-default">
+          Central de monitoreo Grupo Águilas
+         </h4>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-32d962aa elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="32d962aa" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+         <p>
+          Nuestra central de monitoreo
+          <strong>
+           funciona las 24 horas del día, los 7 días de la semana con el objetivo de un monitoreo coordinado y proactivo y una respuesta al riesgo, el cual funciona como centro operativo de la gestión de riesgos dentro de una organización,
+          </strong>
+          colaborando en todas las áreas de la empresa. Esto incluye conectar a las personas, los procesos, los datos y los sistemas que respaldan y en los que confían para ser efectivos.
+         </p>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-d536117 elementor-align-right elementor-widget elementor-widget-button" data-element_type="widget" data-id="d536117" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+         <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="#contacto">
+           <span class="elementor-button-content-wrapper">
+            <span class="elementor-button-text">
+             COTIZAR
+            </span>
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="elementor-element elementor-element-1ff64aa elementor-widget elementor-widget-html" data-element_type="widget" data-id="1ff64aa" data-widget_type="html.default">
+        <div class="elementor-widget-container">
+         <script>
+          jQuery(function($){ $(document).on('click','.elementor-location-popup a', function(event){ elementorProFrontend.modules.popup.closePopup( {}, event); }); });
+         </script>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+  </div>
+  <link href="https://grupoaguilas.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.17.3" id="e-animations-css" media="all" rel="stylesheet"/>
+  <script id="jquery-core-js" src="https://grupoaguilas.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1">
+  </script>
+  <script id="jquery-migrate-js" src="https://grupoaguilas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1">
+  </script>
+  <script id="smartmenus-js" src="https://grupoaguilas.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1">
+  </script>
+  <script id="imagesloaded-js" src="https://grupoaguilas.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0">
+  </script>
+  <script id="fc-modal-js" src="https://grupoaguilas.com/wp-content/plugins/formcraft3/assets/js/src/fc_modal.js?ver=3.9.7">
+  </script>
+  <script id="tooltip-js" src="https://grupoaguilas.com/wp-content/plugins/formcraft3/assets/js/vendor/tooltip.min.js?ver=6.4.3">
+  </script>
+  <script id="awesomplete-js" src="https://grupoaguilas.com/wp-content/plugins/formcraft3/lib/awesomplete.min.js?ver=6.4.3">
+  </script>
+  <script id="jquery-ui-core-js" src="https://grupoaguilas.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2">     
+  </script>
+  <script id="jquery-ui-mouse-js" src="https://grupoaguilas.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2">   
+  </script>
+  <script id="fc-form-js-extra">
+   var FC = {"ajaxurl":"https:\/\/grupoaguilas.com\/wp-admin\/admin-ajax.php","fct":{"1w":"1w","1m":"1m","1y":"1y","Form Name":"Form Name","Set Width Option":"Set the widths of two fields to 50% each to fit them in one row.<br>You can have any number of fields in the same row, as long as the sum of widths is 100%","Alt Label":"The field label \/ key to use when sending data via a webhook","Dropdown One":"You can set the value of the options different from the text, using this pattern","Dropdown Two":"Here, 100 would be the value, and Apple would be the text.","keepdata":"Keep Data When Deleting Plugin","exportall":"Export All Data","needAPIKey":"You need to enter the Google API Key when editing the field to make the autocomplete address field work","Form:":"Form:","Embed Type:":"Embed Type:","Add a FormCraft form":"Add a FormCraft form","Inline":"Inline","Popup":"Popup","Slide In":"Slide In","Button Text:":"Button Text:","Alignment:":"Alignment:","Left":"Left","Center":"Center","Right":"Right","Placement:":"Placement:","Bottom Right":"Bottom Right","Bind:":"Bind:","bind form popup action to a CSS selector":"bind form popup action to a CSS selector","Class:":"Class:","add a custom class to the popup button":"add a custom class to the popup button","Font Color:":"Font Color:","font color of the button":"font color of the button","Button Color:":"Button Color:","color of the button":"color of the button","Auto Popup:":"Auto Popup:","auto popup the form on page load after x seconds":"auto popup the form on page load after x seconds","loseChanges":"You will lose any un-saved changes.","Free AddOns":"Free AddOns","Purchased AddOns":"Purchased AddOns","Paid AddOns":"Paid AddOns","read more":"read more","Nothing Left To Install":"Nothing Left To Install","Please check your internet connection":"Please check your internet connection","back":"back","Help Topics":"Help Topics","Sorry, nothing here":"Sorry, nothing here","Contact Support":"Contact Support","Unknown Error.":"Unknown Error.","Failed Saving.":"Failed Saving.","Failed Saving. Please try disabing your firewall, or security plugin.":"Failed Saving. Please try disabing your firewall, or security plugin.","Debug Info":"Debug Info","Invalid":"Invalid","Min [x] characters required":"Min [x] characters required","Max [x] characters allowed":"Max [x] characters allowed","Max [x] file(s) allowed":"test","Files bigger than [x] MB not allowed":"Files bigger than [x] MB not allowed","Invalid Email":"Invalid Email","Invalid URL":"Invalid URL","Invalid Expression":"Invalid Expression","Only alphabets":"Only alphabets","Only numbers":"Only numbers","Should be alphanumeric":"Should be alphanumeric","Please correct the errors and try again":"Please correct the errors and try again","Message received":"Message received","Email Content Autoresponder":"<p>Hello [Name],<\/p><p><br><\/p><p>We have received your submission. Here are the details you have submitted to us:<\/p><p>[Form Content]<\/p><p><br><\/p><p>Regards,<\/p><p>Nishant<\/p>","Thank you for your submission":"Thank you for your submission","<p>Hello,<\/p><p><br><\/p><p>You have received a new form submission for the form [Form Name]. Here are the details:<\/p><p>[Form Content]<\/p><p><br><\/p><p>Page: [URL]<br>Unique ID: #[Entry ID]<br>Date: [Date]<br>Time: [Time]<\/p>":"<p>Hello,<\/p><p><br><\/p><p>You have received a new form submission for the form [Form Name]. Here are the details:<\/p><p>[Form Content]<\/p><p><br><\/p><p>Page: [URL]<br>Unique ID: #[Entry ID]<br>Date: [Date]<br>Time: [Time]<\/p>","New Form Submission":"New Form Submission","Heading":"Heading","Some Title":"Some Title","Name":"Name","your full name":"your full name","Password":"Password","check your caps":"check your caps","Email":"Email","a valid email":"a valid email","Comments":"Comments","more details":"more details","Favorite Fruits":"Favorite Fruits","pick one!":"pick one!","Language":"Language","Date":"Date","of appointment":"of appointment","Add some text or <strong>HTML<\/strong> here":"Add some text or HTML here","Text Field":"Text Field","Submit Form":"Submit Form","File":"File","upload":"upload","Slider":"Slider","take your pick":"take your pick","Time":"Time","Address":"Address","your home \/ office":"your home \/ office","Rate":"Rate","our support":"our support","Liked the food?":"Liked the food?","let us know":"let us know","Survey":"Survey","How Was the Food?":"How Was the Food?","How Was the Service?":"How Was the Service?","Poor":"Poor","Average":"Average","Good":"Good","Bad":"Bad","Could be better":"Could be better","So so":"So so","Excellent":"Excellent","Blank":"Blank","Template":"Template","Duplicate":"Duplicate","Import":"Import","(blank form)":"(blank form)","80% Zoom":"80% Zoom","Select Form Template To View":"Select Form Template To View","Select Form":"Select Form","Create Form":"Create Form","No Forms Found":"No Forms Found","Forms":"Forms","New Form":"New Form","ID":"ID","Last Edit":"Last Edit","Sure? This action can't be reversed.":"Sure? This action can&#039;t be reversed.","Form Analytics":"Form Analytics","reset analytics data":"reset analytics data","Custom":"Custom","All Forms":"All Forms","form views":"form views","submissions":"submissions","conversion":"conversion","charges":"charges","No Entries Found":"No Entries Found","Select Form to Export":"Select Form to Export","Separator:":"Separator:","Comma (CSV format)":"Comma (CSV format)","Semicolon":"Semicolon","Export":"Export","Entries":"Entries","(All Forms)":"(All Forms)","Created":"Created","Hide Empty Fields":"Hide Empty Fields","Save Changes":"Save Changes","Edit Entry":"Edit Entry","Print":"Print","Referer":"Referer","Insights":"Insights","Get Insights":"Get Insights","Period":"Period","All":"All","From":"From","To":"To","Max Entries":"Max Entries","Entries Analyzed":"Entries Analyzed","No Insights Available":"No Insights Available","learn more":"learn more","License Key verified":"License Key verified","Verified":"Verified","Update Key Info":"Update Key Info","Verify Key":"Verify Key","Purchased On":"Purchased On","Last Check":"Last Check","Expires On":"Expires On","More Info":"More Info","days too late":"days too late","days left":"days left","Renew License Key":"Renew License Key","renewing the license key gives you access to auto plugin updates and free customer support":"renewing the license key gives you access to auto plugin updates and free customer support","No Files Found":"No Files Found","File Uploads":"File Uploads","Trash":"Trash","Type":"Type","Size":"Size","Disable Analytics":"Disable Analytics","Search":"Search","Loading":"Loading","Entry View":"Entry View","Your License Key":"Your License Key","Your Email":"Your Email"},"datepickerLang":"https:\/\/grupoaguilas.com\/wp-content\/plugins\/formcraft3\/assets\/js\/datepicker-lang\/"};
+var FC = {"ajaxurl":"https:\/\/grupoaguilas.com\/wp-admin\/admin-ajax.php","fct":{"1w":"1w","1m":"1m","1y":"1y","Form Name":"Form Name","Set Width Option":"Set the widths of two fields to 50% each to fit them in one row.<br>You can have any number of fields in the same row, as long as the sum of widths is 100%","Alt Label":"The field label \/ key to use when sending data via a webhook","Dropdown One":"You can set the value of the options different from the text, using this pattern","Dropdown Two":"Here, 100 would be the value, and Apple would be the text.","keepdata":"Keep Data When Deleting Plugin","exportall":"Export All Data","needAPIKey":"You need to enter the Google API Key when editing the field to make the autocomplete address field work","Form:":"Form:","Embed Type:":"Embed Type:","Add a FormCraft form":"Add a FormCraft form","Inline":"Inline","Popup":"Popup","Slide In":"Slide In","Button Text:":"Button Text:","Alignment:":"Alignment:","Left":"Left","Center":"Center","Right":"Right","Placement:":"Placement:","Bottom Right":"Bottom Right","Bind:":"Bind:","bind form popup action to a CSS selector":"bind form popup action to a CSS selector","Class:":"Class:","add a custom class to the popup button":"add a custom class to the popup button","Font Color:":"Font Color:","font color of the button":"font color of the button","Button Color:":"Button Color:","color of the button":"color of the button","Auto Popup:":"Auto Popup:","auto popup the form on page load after x seconds":"auto popup the form on page load after x seconds","loseChanges":"You will lose any un-saved changes.","Free AddOns":"Free AddOns","Purchased AddOns":"Purchased AddOns","Paid AddOns":"Paid AddOns","read more":"read more","Nothing Left To Install":"Nothing Left To Install","Please check your internet connection":"Please check your internet connection","back":"back","Help Topics":"Help Topics","Sorry, nothing here":"Sorry, nothing here","Contact Support":"Contact Support","Unknown Error.":"Unknown Error.","Failed Saving.":"Failed Saving.","Failed Saving. Please try disabing your firewall, or security plugin.":"Failed Saving. Please try disabing your firewall, or security plugin.","Debug Info":"Debug Info","Invalid":"Invalid","Min [x] characters required":"Min [x] characters required","Max [x] characters allowed":"Max [x] characters allowed","Max [x] file(s) allowed":"test","Files bigger than [x] MB not allowed":"Files bigger than [x] MB not allowed","Invalid Email":"Invalid Email","Invalid URL":"Invalid URL","Invalid Expression":"Invalid Expression","Only alphabets":"Only alphabets","Only numbers":"Only numbers","Should be alphanumeric":"Should be alphanumeric","Please correct the errors and try again":"Please correct the errors and try again","Message received":"Message received","Email Content Autoresponder":"<p>Hello [Name],<\/p><p><br><\/p><p>We have received your submission. Here are the details you have submitted to us:<\/p><p>[Form Content]<\/p><p><br><\/p><p>Regards,<\/p><p>Nishant<\/p>","Thank you for your submission":"Thank you for your submission","<p>Hello,<\/p><p><br><\/p><p>You have received a new form submission for the form [Form Name]. Here are the details:<\/p><p>[Form Content]<\/p><p><br><\/p><p>Page: [URL]<br>Unique ID: #[Entry ID]<br>Date: [Date]<br>Time: [Time]<\/p>":"<p>Hello,<\/p><p><br><\/p><p>You have received a new form submission for the form [Form Name]. Here are the details:<\/p><p>[Form Content]<\/p><p><br><\/p><p>Page: [URL]<br>Unique ID: #[Entry ID]<br>Date: [Date]<br>Time: [Time]<\/p>","New Form Submission":"New Form Submission","Heading":"Heading","Some Title":"Some Title","Name":"Name","your full name":"your full name","Password":"Password","check your caps":"check your caps","Email":"Email","a valid email":"a valid email","Comments":"Comments","more details":"more details","Favorite Fruits":"Favorite Fruits","pick one!":"pick one!","Language":"Language","Date":"Date","of appointment":"of appointment","Add some text or <strong>HTML<\/strong> here":"Add some text or HTML here","Text Field":"Text Field","Submit Form":"Submit Form","File":"File","upload":"upload","Slider":"Slider","take your pick":"take your pick","Time":"Time","Address":"Address","your home \/ office":"your home \/ office","Rate":"Rate","our support":"our support","Liked the food?":"Liked the food?","let us know":"let us know","Survey":"Survey","How Was the Food?":"How Was the Food?","How Was the Service?":"How Was the Service?","Poor":"Poor","Average":"Average","Good":"Good","Bad":"Bad","Could be better":"Could be better","So so":"So so","Excellent":"Excellent","Blank":"Blank","Template":"Template","Duplicate":"Duplicate","Import":"Import","(blank form)":"(blank form)","80% Zoom":"80% Zoom","Select Form Template To View":"Select Form Template To View","Select Form":"Select Form","Create Form":"Create Form","No Forms Found":"No Forms Found","Forms":"Forms","New Form":"New Form","ID":"ID","Last Edit":"Last Edit","Sure? This action can't be reversed.":"Sure? This action can&#039;t be reversed.","Form Analytics":"Form Analytics","reset analytics data":"reset analytics data","Custom":"Custom","All Forms":"All Forms","form views":"form views","submissions":"submissions","conversion":"conversion","charges":"charges","No Entries Found":"No Entries Found","Select Form to Export":"Select Form to Export","Separator:":"Separator:","Comma (CSV format)":"Comma (CSV format)","Semicolon":"Semicolon","Export":"Export","Entries":"Entries","(All Forms)":"(All Forms)","Created":"Created","Hide Empty Fields":"Hide Empty Fields","Save Changes":"Save Changes","Edit Entry":"Edit Entry","Print":"Print","Referer":"Referer","Insights":"Insights","Get Insights":"Get Insights","Period":"Period","All":"All","From":"From","To":"To","Max Entries":"Max Entries","Entries Analyzed":"Entries Analyzed","No Insights Available":"No Insights Available","learn more":"learn more","License Key verified":"License Key verified","Verified":"Verified","Update Key Info":"Update Key Info","Verify Key":"Verify Key","Purchased On":"Purchased On","Last Check":"Last Check","Expires On":"Expires On","More Info":"More Info","days too late":"days too late","days left":"days left","Renew License Key":"Renew License Key","renewing the license key gives you access to auto plugin updates and free customer support":"renewing the license key gives you access to auto plugin updates and free customer support","No Files Found":"No Files Found","File Uploads":"File Uploads","Trash":"Trash","Type":"Type","Size":"Size","Disable Analytics":"Disable Analytics","Search":"Search","Loading":"Loading","Entry View":"Entry View","Your License Key":"Your License Key","Your Email":"Your Email"},"datepickerLang":"https:\/\/grupoaguilas.com\/wp-content\/plugins\/formcraft3\/assets\/js\/datepicker-lang\/"};
+  </script>
+  <script id="fc-form-js" src="https://grupoaguilas.com/wp-content/plugins/formcraft3/dist/form.min.js?ver=3.9.7">   
+  </script>
+  <script id="elementor-pro-webpack-runtime-js" src="https://grupoaguilas.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.17.1">
+  </script>
+  <script id="elementor-webpack-runtime-js" src="https://grupoaguilas.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.3">
+  </script>
+  <script id="elementor-frontend-modules-js" src="https://grupoaguilas.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.3">
+  </script>
+  <script id="wp-polyfill-inert-js" src="https://grupoaguilas.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2">
+  </script>
+  <script id="regenerator-runtime-js" src="https://grupoaguilas.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0">
+  </script>
+  <script id="wp-polyfill-js" src="https://grupoaguilas.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0">
+  </script>
+  <script id="wp-hooks-js" src="https://grupoaguilas.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1"> 
+  </script>
+  <script id="wp-i18n-js" src="https://grupoaguilas.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef">   
+  </script>
+  <script id="wp-i18n-js-after">
+   wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+  </script>
+  <script id="elementor-pro-frontend-js-before">
+   var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/grupoaguilas.com\/wp-admin\/admin-ajax.php","nonce":"ce344183ec","urls":{"assets":"https:\/\/grupoaguilas.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/grupoaguilas.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"facebook_sdk":{"lang":"es_MX","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/grupoaguilas.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+  </script>
+  <script id="elementor-pro-frontend-js" src="https://grupoaguilas.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.17.1">
+  </script>
+  <script id="elementor-waypoints-js" src="https://grupoaguilas.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2">
+  </script>
+  <script id="elementor-frontend-js-before">
+   var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Fijarlo","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir video","previous":"Previo","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil en Retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
+"version":"3.17.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/grupoaguilas.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2,"title":"Inicio%20-%20Grupo%20%C3%81guilas","excerpt":"","featuredImage":false}};
+  </script>
+  <script id="elementor-frontend-js" src="https://grupoaguilas.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3">
+  </script>
+  <script id="pro-elements-handlers-js" src="https://grupoaguilas.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.17.1">
+  </script>
+  <script id="e-sticky-js" src="https://grupoaguilas.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.17.1">
+  </script>
+  <script>
+   (function() {
+                                var expirationDate = new Date();
+                                expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+                                document.cookie = "pll_language=es; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+                        }());
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var FC_Validation_1 = {"is_required":"Campo Requerido","is_invalid":"Incorrecto","min_char":"Min [x] characters required","max_char":"Max [x] characters allowed","max_files":"test","max_file_size":"Files bigger than [x] MB not allowed","allow_email":"Email incorrecto","allow_url":"Invalid URL","allow_regexp":"Invalid Expression","allow_alphabets":"Only alphabets","allow_numbers":"Only numbers","allow_alphanumeric":"Should be alphanumeric","failed":"Please correct the errors and try again"};
+/* ]]> */
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var FC_Validation_2 = {"is_required":"Requerido","is_invalid":"Invalid","min_char":"Min [x] characters required","max_char":"Max [x] characters allowed","max_files":"test","max_file_size":"Files bigger than [x] MB not allowed","allow_email":"Invalid Email","allow_url":"Invalid URL","allow_regexp":"Invalid Expression","allow_alphabets":"Only alphabets","allow_numbers":"Only numbers","allow_alphanumeric":"Should be alphanumeric","failed":"Please correct the errors and try again"};
+/* ]]> */
+  </script>
+  <script>
+   jQuery(document).ready(function() {
+
+
+    });
+  </script>
+ </body>
+</html>

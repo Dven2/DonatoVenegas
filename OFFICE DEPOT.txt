@@ -1,0 +1,956 @@
+                                   </div>
+                                     </div>
+                                {{ } else { }}
+                                 <div class="montserrat-medium">{{= p.priceF }}<span class="decimal-format"></span></div>
+                              {{ } }}
+                          </div>
+                            <div class="group-grid-tags-left">
+
+                                    {{ if (p.price >= 600) { }}
+                                    <span class="msi-tag center-content-items"></span>
+                                    {{ } }}
+                                </div>
+                            <div class="group-grid-tags-left">
+                                </div>
+                    </div>
+                    <span id="emarsysProduct{{=p.id}}"
+                            data-id="{{=p.id}}"
+                            data-title="{{=p.title}}"
+                            data-price="{{=p.price}}"
+                            data-brand="{{=p.brand}}"
+                            data-category="{{=p.category}}">
+                        </span>
+                </form>
+            </div>
+            {{ } }}
+            {{ } }}
+            ]]>
+   </script>
+   <script id="category-template-newTop-computo" type="text/html">
+    <![CDATA[
+            {{ if (SC.page.products.length){ }}
+            {{ for (var i=0; i < SC.page.products.length; i++) { }}
+            {{ var p = SC.page.products[i]; }}
+            <!-- Slides -->
+            <div data-scarabitem="{{= p.id }}" class="swiper-slide">
+                <form id="addToCartForm{{= p.id}}" class="add_to_cart_form" onsubmit="return emarsys(this, this.id);">
+                    <div class="wishlist-grid-computo">
+
+                            {{var coraxonActivo = '';}}
+                            {{var urlActivaCoraxon = 'addProductToShoppingListGrid';}}
+                            {{if( mapWishlistSku.has(p.item) ){}}
+                            {{coraxonActivo = 'active';}}
+                            {{urlActivaCoraxon = 'deleteProductWhislist';}}
+                            {{ } }}
+                            <sec:authorize access="hasAnyRole(\'ROLE_ANONYMOUS\')">
+                                    <a href="/officedepot/en/login" aria-label="login">
+                                        <div class="select-heart-od"></div>
+                                    </a>
+                                </sec:authorize>
+                            </div>
+                    <div class="scarab-itemlist">
+                        <div class="card-grid">
+                            <div class="img-card">
+                                <a href="{{= p.link }}" id="productLink{{=p.id}}" data-product-id="{{=p.id}}">       
+                                    <img src="{{= p.image }}" alt="{{= p.title }}">
+                                </a>
+                                <div class="stikers-product">
+                                    {{if (p.msrp != p.price) { }}
+                                    <div class="discount-rel-tag center-content-items"></div>
+                                    {{ } }}
+                                </div>
+                            </div>
+                            <div class="description-grid-text-computo">
+                            <span class="content-title">
+                                <h2>{{= p.title }}</h2>
+                            </span>
+                             <div class="price-control-space">
+                              <!-- aqui van los precios sin pyme -->
+                              {{if (p.price != "-" && p.price < p.msrp) { }}
+                                {{ discount = p.c_discount; }}
+                                 <div class="price-control">
+                                 <div class="before-price montserrat-medium">
+                                {{= p.msrpF }}
+                                   <span class="decimal-format"></span>
+                                   </div>
+                                    <div class="price montserrat-medium">
+                                {{= p.c_finalPriceF }}
+                                     <span class="decimal-format"></span>
+                                     </div>
+                                     </div>
+                                {{ } else { }}
+                                 <div class="montserrat-medium">{{= p.priceF }}<span class="decimal-format"></span></div>
+                              {{ } }}
+                          </div>
+                                <div class="group-grid-tags-left">
+
+                                        {{ if (p.price >= 600) { }}
+                                        <span class="msi-tag center-content-items"></span>
+                                        {{ } }}
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <span id="emarsysProduct{{=p.id}}"
+                            data-id="{{=p.id}}"
+                            data-title="{{=p.title}}"
+                            data-price="{{=p.price}}"
+                            data-brand="{{=p.brand}}"
+                            data-category="{{=p.category}}">
+                        </span>
+                </form>
+            </div>
+            {{ } }}
+            {{ } }}
+            ]]>
+   </script>
+   <script id="category-template-newTop-electronica" type="text/html">
+    <![CDATA[
+            {{ if (SC.page.products.length){ }}
+            {{ for (var i=0; i < SC.page.products.length; i++) { }}
+            {{ var p = SC.page.products[i]; }}
+            <!-- Slides -->
+            <div data-scarabitem="{{= p.id }}" class="swiper-slide scarab-item product-emarsys-item">
+                <form id="addToCartForm{{= p.id}}" class="add_to_cart_form" onsubmit="return emarsys(this, this.id);">
+                    <div class="wishlist-grid-newTop">
+
+                            {{var coraxonActivo = '';}}
+                            {{var urlActivaCoraxon = 'addProductToShoppingListGrid';}}
+                            {{if( mapWishlistSku.has(p.item) ){}}
+                            {{coraxonActivo = 'active';}}
+                            {{urlActivaCoraxon = 'deleteProductWhislist';}}
+                            {{ } }}
+                            <sec:authorize access="hasAnyRole(\'ROLE_ANONYMOUS\')">
+                                    <a href="/officedepot/en/login" aria-label="login">
+                                        <div class="select-heart-od"></div>
+                                    </a>
+                                </sec:authorize>
+                            </div>
+                    <div class="scarab-itemlist">
+                        <div class="card-grid">
+                            <div class="img-card">
+                                <a href="{{= p.link }}" id="productLink{{=p.id}}" data-product-id="{{=p.id}}">       
+                                    <img src="{{= p.image }}" alt="{{= p.title }}">
+                                </a>
+                                <div class="stikers-product">
+                                    {{if (p.msrp != p.price) { }}
+                                    <div class="discount-rel-tag center-content-items"></div>
+                                    {{ } }}
+                                </div>
+                            </div>
+                            <div class="description-grid-text-electronica">
+                                <span class="content-title">
+                                     <h2>{{= p.title }}</h2>
+                                </span>
+                             <div class="price-control-space">
+                              <!-- aqui van los precios sin pyme -->
+                              {{if (p.price != "-" && p.price < p.msrp) { }}
+                                {{ discount = p.c_discount; }}
+                                 <div class="price-control">
+                                 <div class="before-price montserrat-medium">
+                                {{= p.msrpF }}
+                                   <span class="decimal-format"></span>
+                                   </div>
+                                    <div class="price montserrat-medium">
+                                {{= p.c_finalPriceF }}
+                                     <span class="decimal-format"></span>
+                                     </div>
+                                     </div>
+                                {{ } else { }}
+                                 <div class="montserrat-medium">{{= p.priceF }}<span class="decimal-format"></span></div>
+                              {{ } }}
+                          </div>
+                                    <div class="group-grid-tags-left">
+
+                                            {{ if (p.price >= 600) { }}
+                                            <span class="msi-tag center-content-items"></span>
+                                            {{ } }}
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <span id="emarsysProduct{{=p.id}}"
+                            data-id="{{=p.id}}"
+                            data-title="{{=p.title}}"
+                            data-price="{{=p.price}}"
+                            data-brand="{{=p.brand}}"
+                            data-category="{{=p.category}}">
+                        </span>
+                </form>
+            </div>
+            {{ } }}
+            {{ } }}
+            ]]>
+   </script>
+   <footer>
+    <div class="content">
+     <p style="margin-bottom:0px;">
+      <style type="text/css">
+       .dis-none{
+display:none !important;
+}
+
+.cont-banners-middle {
+    display: flex;
+    justify-content: center;
+    align-items: initial;
+    flex-direction: column;
+    margin: 22px auto;
+}
+
+@media (min-width:640px) {
+    .cont-banners-middle {
+        align-items: initial;
+    }
+}
+
+
+        @media (min-width:1024px) {
+            .phone-logo-cnt {
+                margin-left: 15px !important;
+            }
+
+            .text-info-cnt{
+                margin-right:81px !important;
+            }
+        }
+
+        @media (min-width:1300px) {
+            .phone-logo-cnt {
+                margin-left: 15px !important;
+            }
+
+            .text-info-cnt{
+                margin-right:28px !important;
+            }
+        }
+      </style>
+     </p>
+    </div>
+    <div class="content">
+     <style>
+      #footer-body .footer-logos-cnt .soc-net-logos-cnt .footer-tiktok-logo{
+        background: url("https://www.officedepot.com.mx/medias/od-Tiktok.svg?context=bWFzdGVyfHJvb3R8MTk3NnxpbWFnZS9zdmcreG1sfGhlMy9oN2EvMTA4Mjk4NDkxNjU4NTQvb2RfVGlrdG9rLnN2Z3w5OWRkM2RkN2I4NGNmOTY2ODFhYzAwYzIxMzg3YjQ2ZjM1ZGEzNDE2ZGM0ZDdhZTM4NTA3YjJlYTBkOWJlZmM2") center no-repeat;
+        height: 24px;
+        width: 24px;
+    }
+    #footer-body .footer-logos-cnt .verif-gg-logos-cnt .footer-gg-logo {
+        background: url("https://www.officedepot.com.mx/medias/Grupo-Gigante.png?context=bWFzdGVyfHJvb3R8MjQ2NXxpbWFnZS9wbmd8aDI0L2hiNS8xMjAzMTk2NzgyMTg1NC9HcnVwbyBHaWdhbnRlLnBuZ3w5ZjEwNTE4MDg2MDQyNmQzY2NiZjcwYTE5YjYwM2RjOTZlMzg0YzVkZDEzZjg1NmI2NzZlZTQ3NGQ0OTRiODZm") center no-repeat !important;
+        height: 22px;
+        width: 176px;
+        background-size: 80%
+    }
+    @media screen and (min-width: 640px){
+        #footer-body .footer-logos-cnt .soc-net-logos-cnt .footer-tiktok-logo{
+            height: 20px;
+        }
+        .footer-verif-logo{
+            height: 50px !important;
+            width: 300px !important;
+            background-size: contain !important;
+            background-image: url("https://www.officedepot.com.mx/medias/certificacionesFooter.png?context=bWFzdGVyfHJvb3R8NDc5OHxpbWFnZS9wbmd8aDVmL2g5MS8xMTQxNTAwMTQ5NzYzMC9jZXJ0aWZpY2FjaW9uZXNGb290ZXIucG5nfGUzNjAzYWU2YjNmOThlMjc2Y2ViODc1ZTA4ODFkNjY0YzczZTEzMTY0NjE4MWJhNGEwZTBiM2I0MzNkNDFkZjI") !important;
+        }
+    }
+    @media screen and (min-width: 1024px){
+    #footerOD {
+    max-width: 2560px !important;
+    }
+}
+    #footerOD{
+        background-color: #fafafa;
+    }
+    #footer-body .footer-logos-cnt .soc-net-logos-cnt .footer-tw-logo {
+        background: url(https://www.officedepot.com.mx/medias/twitter-x-NGO1.png?context=bWFzdGVyfHJvb3R8MzE3fGltYWdlL3BuZ3xoOTAvaGE1LzEyMDAxNDM4NDY2MDc4L3R3aXR0ZXIteC1OR08xLnBuZ3xkYjg1ZDM4MDdhODlmNmJmZjY3MjRlM2M1NGU5ODIxMWM1MTRjODI5YzgzYTAyYTBiMDhlNzhlMTQ4Nzc4NTlh) center no-repeat !important;
+        height: 24px;
+        width: 24px;
+    }
+     </style>
+     <div class="footer-container" id="footerOD">
+      <section class="footer-newsletter">
+       <form class="text-center" commandname="officeDepotNewsletterForm" onsubmit="return false" role="form">        
+        <div id="newsletter">
+         <div class="newsletter-container">
+          <div class="header-newsletter text-center">
+           <div class="title-news montserrat-bold">
+            <span class="newsletter">
+             Inscríbete a nuestro
+newsletter
+            </span>
+           </div>
+           <div class="subtitle-news">
+            <span>
+             Y recibe descuentos y promociones exclusivas.
+            </span>
+           </div>
+          </div>
+          <div id="FormRegistrame">
+           <div class="center-content-items form-newsletter-cnt">
+            <input class="form-control" id="emailNewsletter" name="emailNewsletter" placeholder="*Correo electrónico" type="text"/>
+            <button class="btn btnNewsletter" id="btn-tb" type="submit">
+            </button>
+           </div>
+           <div class="newsletter-msg-container inside-newsletter-msg">
+            <div class="newsletterValidation center-content-items txt-xl">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="newsletter-msg-container">
+         </div>
+        </div>
+       </form>
+      </section>
+      <section id="footer-app-info">
+       <div class="app-cnt">
+        <div class="text-app-cnt">
+         <span>
+          ¡Descarga nuestra app!
+         </span>
+        </div>
+        <div class="logos-app-cnt">
+         <a class="logo-appstore" href="https://apps.apple.com/mx/app/office-depot/id1524516334" target="_blank">    
+          <span style="display:none">
+           .
+          </span>
+         </a>
+         <a class="logo-playstore" href="https://play.google.com/store/apps/details?id=com.grupogigante.officedepot" target="_blank">
+          <span style="display:none">
+           .
+          </span>
+         </a>
+        </div>
+       </div>
+       <div class="od-info-cnt">
+        <div class="od-logo-footer2 hidden-md hidden-lg">
+        </div>
+        <div class="od-logo-footer1 hidden-xs hidden-sm">
+        </div>
+        <div class="phone-logo-cnt hidden-xs hidden-sm">
+        </div>
+        <div class="text-info-cnt visible-xs-mb">
+         <span class="montserrat-bold">
+          <a class="__cf_email__" data-cfemail="5625353a3f3338223325163930303f353332332639227835393b783b2e" href="/cdn-cgi/l/email-protection">
+           [email protected]
+          </a>
+         </span>
+         <span>
+          Asesoría * 55 25 82 09 10
+         </span>
+         <span>
+          Pedidos y cotizaciones * 55 25 82 09 00
+         </span>
+        </div>
+        <div class="text-info-cnt hidden-xs-mb">
+         <span class="montserrat-bold">
+          <a class="__cf_email__" data-cfemail="780b1b14111d160c1d0b38171e1e111b1d1c1d08170c561b1715561500" href="/cdn-cgi/l/email-protection">
+           [email protected]
+          </a>
+         </span>
+         <div>
+          <span class="ase montserrat-medium">
+           Asesoría * 55 25 82 09 10
+          </span>
+          <span class="pedyc montserrat-medium">
+           Pedidos y cotizaciones * 55 25 82 09 00
+          </span>
+         </div>
+        </div>
+       </div>
+      </section>
+      <section id="footer-body">
+       <div class="footer-menus-mob panel-group" id="collapse-info-new-footer">
+        <div class="about-menu-mob menu-footer panel panel-default">
+         <div class="titulo-menu">
+          <h4 class="panel-title">
+           <a class="button-collapse" data-parent="#collapse-info-new-footer" data-toggle="collapse" href="#ncollapse1" id="footer-menu-about">
+            <span>
+             Herramientas de consulta
+            </span>
+            <div class="button-collapse">
+            </div>
+           </a>
+          </h4>
+         </div>
+         <div class="panel-collapse collapse body-menus" id="ncollapse1">
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/Factura-Inf-compra-en-linea">
+           <span>
+            Facturación
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/store-finder">
+           <span>
+            ¿Buscas
+alguna tienda?
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/Ofertia-OfficeDepot     
+                    ">
+           <span>
+            Encuentra ofertas
+cerca de ti
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/FOLLETO-DEL-MES">
+           <span>
+            Folleto del
+mes
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/Catalogos/CATALOGO_ANUAL.pdf">
+           <span>
+            Catálogo anual
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="atencion-menu-mob menu-footer panel panel-default">
+         <div class="titulo-menu panel">
+          <h4 class="panel-title">
+           <a class="button-collapse" data-parent="#collapse-info-new-footer" data-toggle="collapse" href="#ncollapse2" id="footer-menu-atn">
+            <span>
+             Información legal
+            </span>
+            <div class="button-collapse">
+            </div>
+           </a>
+          </h4>
+         </div>
+         <div class="panel-collapse collapse body-menus" id="ncollapse2">
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/Uso%20del%20Portal">    
+           <span>
+            Términos y Condiciones de Uso del Portal
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/PoliticasPrivacidad">   
+           <span>
+            Aviso de privacidad
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/terminos-y-condiciones-pyme">
+           <span>
+            Términos y condiciones de la Plataforma PYME
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/Legales-Recompensas-Office-Depot" target="_blank">
+           <span>
+            Términos y condiciones Programa de Recompensas Office Depot
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://pm4v7xu87hblah13mqx9fx9.blob.core.windows.net/catalog/TyC-OD-Pro-nacional_VFRJ221223.pdf">
+           <span>
+            Términos y condiciones Membresía Office Depot Pro
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="info-menu-mob menu-footer panel panel-default">
+         <div class="titulo-menu panel panel-collapse">
+          <h4 class="panel-title">
+           <a class="button-collapse" data-parent="#collapse-info-new-footer" data-toggle="collapse" href="#ncollapse3" id="footer-menu-info">
+            <span>
+             Nosotros te ayudamos
+            </span>
+            <div class="button-collapse">
+            </div>
+           </a>
+          </h4>
+         </div>
+         <div class="panel-collapse collapse body-menus" id="ncollapse3">
+          <a class="panel-collapse-link" href="https://btov.officedepot.com.mx/BtoV_App/#/login">
+           <span>
+            Proveedores
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/ExtraCobertura">        
+           <span>
+            Extra cobertura
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/InformacionDeEntrega">  
+           <span>
+            Información de entrega
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/PoliticaDePreciosBajos">
+           <span>
+            Política de precios bajos
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://odemas.lineaetica.live/" target="_blank">
+           <span>
+            Línea ética
+           </span>
+          </a>
+         </div>
+        </div>
+        <div class="con-od-menu-mob menu-footer panel panel-default">
+         <div class="titulo-menu panel panel-collapse">
+          <h4 class="panel-title">
+           <a class="button-collapse" data-parent="#collapse-info-new-footer" data-toggle="collapse" href="#ncollapse4" id="footer-menu-info">
+            <span>
+             Conoce Office Depot
+            </span>
+            <div class="button-collapse">
+            </div>
+           </a>
+          </h4>
+         </div>
+         <div class="panel-collapse collapse body-menus" id="ncollapse4">
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/Mision">
+           <span>
+            Misión, valores, promesa y propósito
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/Codigo-Etica-Y-Conducta" target="_blank">
+           <span>
+            Código de ética y conducta
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/BuenFin">
+           <span>
+            Buen fin
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="http://officedepot.bumeran.com.mx/index.bum">
+           <span>
+            Bolsa de trabajo
+           </span>
+          </a>
+          <a class="panel-collapse-link" href="https://www.officedepot.com.mx/officedepot/en/MRS">
+           <span>
+            Responsabilidad Social
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="footer-logos-cnt">
+        <div class="soc-net-logos-cnt">
+         <a class="footer-tiktok-logo" href="https://vm.tiktok.com/ZML3jcKuQ/" target="_blank">
+          <span style="display:none">
+          </span>
+         </a>
+         <a class="footer-fb-logo" href="https://www.facebook.com/OfficeDepotMex" target="_blank">
+          <span style="display:none">
+          </span>
+         </a>
+         <a class="footer-wa-logo" href="https://api.whatsapp.com/send?phone=5215580171817
+                " target="_blank">
+          <span>
+          </span>
+         </a>
+         <a class="footer-tw-logo" href="https://twitter.com/OfficeDepotMex
+                " target="_blank">
+          <span>
+          </span>
+         </a>
+         <a class="footer-ig-logo" href="https://www.instagram.com/officedepotmex/
+                " target="_blank">
+          <span style="display:none">
+          </span>
+         </a>
+         <a class="footer-yt-logo" href="https://www.youtube.com/officedepotmex
+                " target="_blank">
+          <span style="display:none">
+          </span>
+         </a>
+        </div>
+        <div class="verif-gg-logos-cnt">
+         <a href="https://sellosdeconfianza.org.mx/MuestraCertificado.php?NUMERO_SERIE=MD_v042
+                " target="_blank">
+          <div class="footer-verif-logo">
+           <span style="display:none">
+           </span>
+          </div>
+         </a>
+         <a href="https://www.grupogigante.com.mx
+                    " target="_blank">
+          <div class="footer-gg-logo">
+           <span style="display:none">
+           </span>
+          </div>
+         </a>
+        </div>
+       </div>
+      </section>
+      <div class="button-goUp-cnt" onclick="ACC.global.goToAnimation('top');">
+      </div>
+      <section class="footer-copyright text-center txt-md" id="copyright-ft">
+       <span>
+        Copyright ©2018 por Office Depot
+de México, S.A. de C.V. Todos los derechos reservados.
+       </span>
+       <span class="hidden-xs hidden-sm">
+        OFFICE DEPOT® es una marca registrada propiedad de Office Depot Inc.
+       </span>
+      </section>
+     </div>
+    </div>
+   </footer>
+  </main>
+  <form name="accessiblityForm" style="margin: 0">
+   <input id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" type="hidden" value=""/>
+  </form>
+  <div aria-live="polite" aria-relevant="text" class="skip" id="ariaStatusMsg" role="status">
+  </div>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+  </script>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+
+                var ACC = { config: {} };
+                        ACC.config.expressBilling = "true";
+                        ACC.config.requestContextPath = "/officedepot/en";
+                        ACC.config.contextPath = "";
+                        ACC.config.encodedContextPath = "/officedepot/en";
+                        ACC.config.commonResourcePath = "/_ui/responsive/common";
+                        ACC.config.themeResourcePath = "/_ui/responsive/theme-officedepot";
+                        ACC.config.siteResourcePath = "/_ui/responsive/site-officedepot";
+                        ACC.config.rootPath = "/_ui/responsive";
+                        ACC.config.CSRFToken = "org.springframework.security.web.csrf.CsrfTokenRequestAttributeHandler$SupplierCsrfToken@18a36c37";
+                        ACC.config.cmsSite = "officedepot";
+                        ACC.config.cmsPage = "homepage";
+                        ACC.config.coordsLat = 19.357562;
+                        ACC.config.coordsLng = -99.277829;
+                        ACC.config.enableRFCFromSatValidation = "";
+                        ACC.pwdStrengthVeryWeak = 'Muy débil';
+                        ACC.pwdStrengthWeak = 'Débíl';
+                        ACC.pwdStrengthMedium = 'Media';
+                        ACC.pwdStrengthStrong = 'Fuerte';
+                        ACC.pwdStrengthVeryStrong = 'Fuerte';
+                        ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+                        ACC.pwdStrengthTooShortPwd = 'Corta';
+                        ACC.pwdStrengthMinCharText = 'Longitud mínima es de %d caracteres';
+                        ACC.accessibilityLoading = 'Loading... Please wait...';
+                        ACC.accessibilityStoresLoaded = 'Stores loaded';
+                        ACC.config.googleApiKey="AIzaSyDhKiaCqj75q0ul4277UdVLwoaWPY7aIAg";
+                        ACC.config.googleApiVersion="3.7";
+                    ACC.config.validafacturaclient="";
+            ACC.config.validafacturasecret="";
+                        ACC.config.timeResetKiosk = "";
+                        ACC.config.timerAlert = null;
+                        ACC.config.compontentCartShow = false;
+                        ACC.config.shoppingDefaultList = "";
+
+
+                        ACC.autocompleteUrl = '/officedepot/en/search/autocompleteSecure';
+
+
+                        ACC.config.loginUrl = '/officedepot/en/login';
+
+
+
+                        ACC.config.requestAjax = '/officedepot/en/newsletterPage/request';
+
+
+                        ACC.config.emarsysAjax = '/officedepot/en/cart/add';
+
+
+                    ACC.config.emarsys = '/officedepot/en/cart/cartEmarsys';
+
+
+
+                    ACC.config.pickUp = '/officedepot/en/store-pickup/cart/addToCartValidatePickUp';
+                    ACC.config.addDetail = '/officedepot/en/cart/addProduct';
+
+
+                                        ACC.config.isKiosk = false;
+
+            ACC.config.pickUpCartAdd = '/officedepot/en/store-pickup/cart/add';
+                        ACC.config.splitCart = '/officedepot/en/cart/splitCart';
+                        ACC.config.splitCartDropDown = '/officedepot/en/cart/splitCartProductsDropDown';
+
+
+                        ACC.config.authenticationStatusUrl = '/officedepot/en/authentication/status';
+
+
+
+                /*]]>*/
+  </script>
+  <script type="text/javascript">
+   /*<![CDATA[*/
+        ACC.addons = {};        //JS holder for addons properties
+
+
+                ACC.addons.officedepotcommonaddon = [];
+
+                ACC.addons.aplazoaddon = [];
+
+                ACC.addons.officedepotblogaddon = [];
+
+                ACC.addons.servicentroaddon = [];
+
+                ACC.addons.paypaladdon = [];
+
+                ACC.addons.searchaddon = [];
+
+                ACC.addons.reselleraddon = [];
+
+                ACC.addons.coppeladdon = [];
+
+                ACC.addons.kueskiaddon = [];
+
+                ACC.addons.officedepotpromotionengineaddon = [];
+
+                ACC.addons.smarteditaddon = [];
+
+                ACC.addons.kioskaddon = [];
+
+                ACC.addons.occbridgeaddon = [];
+
+                ACC.addons.speciallistaddon = [];
+
+                ACC.addons.officedepotzipaddon = [];
+
+                ACC.addons.officedepotppacdcpaddon = [];
+
+                ACC.addons.officedepotscheduledbuy = [];
+
+                ACC.addons.saleemployeesaddon = [];
+
+                ACC.addons.officedepotcsaddon = [];
+
+                ACC.addons.policyserviceaddon = [];
+
+        /*]]>*/
+  </script>
+  <script src="/_ui/shared/js/generatedVariables.js" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.lazy.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/lazy-function.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.hoverIntent.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/sticker.promo.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/enquire.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/Imager.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.tabs.custom.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.colorbox-min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.form.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.syncheight.custom.js?version=1.0.138" type="text/javascript">        
+  </script>
+  <script defer="" src="/_ui/responsive/common/js/jquery-ui-1.11.2.min.js?version=1.0.138" type="text/javascript">   
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.zoom.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.slideviewer.custom.1.2.js?version=1.0.138" type="text/javascript">   
+  </script>
+  <script src="/_ui/responsive/common/js/acc.csv-import.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/_autoload.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.ui.touch-punch.min.0.2.2.js" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.common.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.global.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.langcurrencyselector.js?version=1.0.138" type="text/javascript">        
+  </script>
+  <script src="/_ui/responsive/common/js/acc.payment.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.paymentDetails.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.pickupinstore.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.storefinder.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.outletstores.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.address.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.billingAddress.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.autocomplete.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.visiblecart.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/owl.carousel.custom.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.carousel.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/newsletter/acc.newsletter.js?version=1.0.138" type="text/javascript">       
+  </script>
+  <script async="" defer="" src="https://apis.google.com/js/platform.js">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.productDetail.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script async="" src="https://assets.emarsys.net/web-emarsys-sdk/4.3.1/web-emarsys-sdk.js" type="text/javascript"> 
+  </script>
+  <script type="text/javascript">
+   var WebEmarsysSdk = WebEmarsysSdk || []
+                WebEmarsysSdk.push(['init', {
+                    applicationCode: 'EMS97-EF52D',
+                    autoSubscribe: false, // If true, prompts a user to subscribe for pushes upon SDK initialization which is not recommended
+                    serviceWorker: {
+                        url: '_ui/responsive/common/js/Emarsys/service-worker.js',
+                        applicationServerPublicKey: 'BLIB41Oa7BilbygsGliikeLr4synfzxmZcRXjJ53IQpnhL3u3aZ7zkQbujoDPxj37sT5GNnxIQbDIwWkePjxPMM'
+                    }
+                }])
+  </script>
+  <script src="/_ui/responsive/common/js/touchSpin.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.cart.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.cartitem.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.checkout.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.cartcoupons.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.cartventaespecial.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.colorbox.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.imagegallery.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.minicart.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.order.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.product.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.quickview.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.track.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.ratingstars.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.refinements.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.paginationsort.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/checkoutOfficeDepot.js?version=1.0.138" type="text/javascript">    
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/emarsys.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/exclusiveInternet.js?version=1.0.138" type="text/javascript">      
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/Tooltip.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/ocultarfiltros.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/sliderPrice.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.cms.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/credomatic/guatemalaCustomerActivity.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script defer="" src="/_ui/responsive/common/js/facebook/facebook.js?version=1.0.138" type="text/javascript">      
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/formatoNumeros.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/acc.navigation.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/od.binbanking.service.js" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/newsletter/newsletter.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/logo.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/imagesloaded.pkgd.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/hammer.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/sequence.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/sequence-theme.basic.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/picturefill.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/od.additionalDistrict.js" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/jquery.touchSwipe.min.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/touchGestures.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script defer="" src="/_ui/responsive/common/js/frontend/eff97.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/function.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/frontend/main.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/aplazoaddon/responsive/common/js/aplazoaddon.js?version=1.0.138" type="text/javascript">  
+  </script>
+  <script src="/_ui/addons/coppeladdon/responsive/common/js/coppeladdon.js?version=1.0.138" type="text/javascript">  
+  </script>
+  <script src="/_ui/addons/emarsysaddon/responsive/common/js/emarsysaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/kueskiaddon/responsive/common/js/kueskiaddon.js?version=1.0.138" type="text/javascript">  
+  </script>
+  <script src="/_ui/addons/membershipaddon/responsive/common/js/membershipaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/neloaddon/responsive/common/js/neloaddon.js?version=1.0.138" type="text/javascript">      
+  </script>
+  <script src="/_ui/addons/occbridgeaddon/responsive/common/js/occbridgeaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotblogaddon/responsive/common/js/officedepotblogaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotcommonaddon/responsive/common/js/officedepotcommonaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotcsaddon/responsive/common/js/officedepotcsaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotcsaddon/responsive/common/js/cs.cscards.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotppacdcpaddon/responsive/common/js/officedepotppacdcpaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotpromotionengineaddon/responsive/common/js/officedepotpromotionengineaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotscheduledbuy/responsive/common/js/officedepotscheduledbuy.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotscheduledbuy/responsive/common/js/acc.scheduledbuy.cartitem.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotscheduledbuy/responsive/common/js/acc.scheduledbuy.productdetail.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotscheduledbuy/responsive/common/js/acc.scheduledbuy.myaccount.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/officedepotzipaddon/responsive/common/js/officedepotzipaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/policyserviceaddon/responsive/common/js/policyserviceaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/reselleraddon/responsive/common/js/reselleraddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/saleemployeesaddon/responsive/common/js/saleemployeesaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/searchaddon/responsive/common/js/searchaddon.js?version=1.0.138" type="text/javascript">  
+  </script>
+  <script src="/_ui/addons/smarteditaddon/shared/common/js/webApplicationInjector.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/smarteditaddon/shared/common/js/reprocessPage.js?version=1.0.138" type="text/javascript"> 
+  </script>
+  <script src="/_ui/addons/smarteditaddon/shared/common/js/adjustComponentRenderingToSE.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/smarteditaddon/responsive/common/js/smarteditaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/socialnetworkaddon/responsive/common/js/socialnetworkaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/speciallistaddon/responsive/common/js/speciallistaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/addons/threeDomainSecureaddon/responsive/common/js/threeDomainSecureaddon.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script src="/_ui/responsive/common/js/pyme-invitacion.js?version=1.0.138" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function cmsPageUid() {
+                    var cmsPageUid = "homepage";
+         }
+  </script>
+  <script src="/_ui/responsive/common/js/DataLayer/DataLayer.js" type="module">
+  </script>
+  <script type="text/javascript">
+   document.addEventListener("DOMContentLoaded", e => {
+                ScarabQueue.push(['go'])
+            });
+  </script>
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"85fb779c7c259a54","b":1,"version":"2024.2.4","token":"bf69f954d6f64f38b967ed2b5d0bed14"}' defer="" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317">
+  </script>
+ </body>
+</html>

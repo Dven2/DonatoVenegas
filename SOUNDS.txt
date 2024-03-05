@@ -1,0 +1,836 @@
+html">
+             <span class="product-image-container product-image-container-7601">
+              <span class="product-image-wrapper">
+               <img alt="LA ESPANOLA GUITARRA CLASICA 6 CUERDAS ACUSTICA" class="product-image-photo" height="300" loading="lazy" src="https://sounds.mx/media/catalog/product/7/5/7502226563152.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=300&amp;width=240&amp;canvas=240:300" srcset="" width="240"/>
+              </span>
+             </span>
+             <style>
+              .product-image-container-7601 {
+    width: 240px;
+}
+.product-image-container-7601 span.product-image-wrapper {
+    padding-bottom: 125%;
+}
+             </style>
+             <script type="text/javascript">
+              prodImageContainers = document.querySelectorAll(".product-image-container-7601");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-7601  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}
+             </script>
+            </a>
+            <div class="product-item-details">
+             <div class="producto-item-brand">
+              <p>
+               LA ESPANOLA
+              </p>
+             </div>
+             <strong class="product-item-name">
+              <a class="product-item-link" href="https://sounds.mx/la-espanola-guitarra-clasica-6-cuerdas-acustica-09.html" title="LA ESPANOLA GUITARRA CLASICA 6 CUERDAS ACUSTICA">
+               LA ESPANOLA GUITARRA CLASICA 6 CUERDAS ACUSTICA
+              </a>
+             </strong>
+             <div class="yotpo bottomLine bottomline-position" data-product-id="7601" data-url="https://sounds.mx/la-espanola-guitarra-clasica-6-cuerdas-acustica-09.html">
+             </div>
+             <div class="price-box price-final_price" data-price-box="product-id-7601" data-product-id="7601" data-role="priceBox">
+              <span class="price-container price-final_price tax weee">
+               <span class="price-wrapper" data-price-amount="959" data-price-type="finalPrice" id="old-price-7601-widget-product-carousel">
+                <span class="price">
+                 $959.00
+                </span>
+               </span>
+              </span>
+             </div>
+             <div class="product-item-inner">
+              <div class="product-item-actions">
+               <div class="actions-primary">
+                <form action="https://sounds.mx/checkout/cart/add/uenc/aHR0cHM6Ly9zb3VuZHMubXgv/product/7601/" data-product-sku="09" data-role="tocart-form" method="post">
+                 <input name="product" type="hidden" value="7601"/>
+                 <input name="uenc" type="hidden" value="aHR0cHM6Ly9zb3VuZHMubXgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OXpiM1Z1WkhNdWJYZ3YvcHJvZHVjdC83NjAxLw~~"/>
+                 <input name="form_key" type="hidden" value="MPnFvJ4u3RJFfWWW"/>
+                 <button class="action tocart primary" title=" Agregar a Carrito" type="submit">
+                  <span>
+                   Agregar a Carrito
+                  </span>
+                 </button>
+                </form>
+               </div>
+               <div class="actions-secondary" data-role="add-to-links">
+                <a class="action towishlist" data-action="add-to-wishlist" data-post='{"action":"https:\/\/sounds.mx\/wishlist\/index\/add\/","data":{"product":7601,"uenc":"aHR0cHM6Ly9zb3VuZHMubXgv"}}' href="#" title="Añadir a la Lista de Deseos">
+                 <span>
+                  Añadir a la Lista de Deseos
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="product-item">
+           <div class="product-item-info">
+            <a class="product-item-photo" href="https://sounds.mx/la-espanola-guitarra-bajito-6-cuerdas-acustica-m20.html">
+             <span class="product-image-container product-image-container-7919">
+              <span class="product-image-wrapper">
+               <img alt="LA ESPANOLA GUITARRA BAJITO 6 CUERDAS ACUSTICA" class="product-image-photo" height="300" loading="lazy" src="https://sounds.mx/media/catalog/product/7/5/7502226566238.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=300&amp;width=240&amp;canvas=240:300" srcset="" width="240"/>
+              </span>
+             </span>
+             <style>
+              .product-image-container-7919 {
+    width: 240px;
+}
+.product-image-container-7919 span.product-image-wrapper {
+    padding-bottom: 125%;
+}
+             </style>
+             <script type="text/javascript">
+              prodImageContainers = document.querySelectorAll(".product-image-container-7919");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-7919  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}
+             </script>
+            </a>
+            <div class="product-item-details">
+             <div class="producto-item-brand">
+              <p>
+               LA ESPANOLA
+              </p>
+             </div>
+             <strong class="product-item-name">
+              <a class="product-item-link" href="https://sounds.mx/la-espanola-guitarra-bajito-6-cuerdas-acustica-m20.html" title="LA ESPANOLA GUITARRA BAJITO 6 CUERDAS ACUSTICA">
+               LA ESPANOLA GUITARRA BAJITO 6 CUERDAS ACUSTICA
+              </a>
+             </strong>
+             <div class="yotpo bottomLine bottomline-position" data-product-id="7919" data-url="https://sounds.mx/la-espanola-guitarra-bajito-6-cuerdas-acustica-m20.html">
+             </div>
+             <div class="price-box price-final_price" data-price-box="product-id-7919" data-product-id="7919" data-role="priceBox">
+              <span class="price-container price-final_price tax weee">
+               <span class="price-wrapper" data-price-amount="699" data-price-type="finalPrice" id="old-price-7919-widget-product-carousel">
+                <span class="price">
+                 $699.00
+                </span>
+               </span>
+              </span>
+             </div>
+             <div class="product-item-inner">
+              <div class="product-item-actions">
+               <div class="actions-primary">
+                <form action="https://sounds.mx/checkout/cart/add/uenc/aHR0cHM6Ly9zb3VuZHMubXgv/product/7919/" data-product-sku="M20" data-role="tocart-form" method="post">
+                 <input name="product" type="hidden" value="7919"/>
+                 <input name="uenc" type="hidden" value="aHR0cHM6Ly9zb3VuZHMubXgvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OXpiM1Z1WkhNdWJYZ3YvcHJvZHVjdC83OTE5Lw~~"/>
+                 <input name="form_key" type="hidden" value="MPnFvJ4u3RJFfWWW"/>
+                 <button class="action tocart primary" title=" Agregar a Carrito" type="submit">
+                  <span>
+                   Agregar a Carrito
+                  </span>
+                 </button>
+                </form>
+               </div>
+               <div class="actions-secondary" data-role="add-to-links">
+                <a class="action towishlist" data-action="add-to-wishlist" data-post='{"action":"https:\/\/sounds.mx\/wishlist\/index\/add\/","data":{"product":7919,"uenc":"aHR0cHM6Ly9zb3VuZHMubXgv"}}' href="#" title="Añadir a la Lista de Deseos">
+                 <span>
+                  Añadir a la Lista de Deseos
+                 </span>
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+         </ol>
+        </div>
+        <div data-appearance="carousel" data-autoplay="false" data-autoplay-speed="4000" data-carousel-mode="default" data-center-padding="90px" data-content-type="products" data-element="main" data-infinite-loop="false" data-show-arrows="true" data-show-dots="false">
+        </div>
+       </div>
+      </div>
+      <div data-appearance="contained" data-content-type="row" data-element="main">
+       <div data-background-images="{}" data-background-type="image" data-element="inner" data-enable-parallax="0" data-parallax-speed="0.5" data-pb-style="Q7VX5TG" data-video-fallback-src="" data-video-lazy-load="true" data-video-loop="true" data-video-play-only-visible="true">
+        <h2 data-appearance="default" data-content-type="heading" data-element="main" data-pb-style="E6K71C5">       
+         Nuestras principales marcas
+        </h2>
+       </div>
+      </div>
+      <div data-appearance="contained" data-content-type="row" data-element="main">
+       <div class="mini-slider" data-background-images="{}" data-background-type="image" data-element="inner" data-enable-parallax="0" data-parallax-speed="0.5" data-pb-style="WJNPP7Y" data-video-fallback-src="" data-video-lazy-load="true" data-video-loop="true" data-video-play-only-visible="true">
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="DJ35TLP">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="EWK2VI2" data-src="https://sounds.mx/media/wysiwyg/Home/microsoft-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="VEKKM51" data-src="https://sounds.mx/media/wysiwyg/Home/microsoft-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="BW6UA0W">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="HVKMABF" data-src="https://sounds.mx/media/wysiwyg/Home/rca-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="E5RXN3W" data-src="https://sounds.mx/media/wysiwyg/Home/rca-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="YXT2US6">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="ODGDTOX" data-src="https://sounds.mx/media/wysiwyg/Home/mitzu-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="RV2T0S7" data-src="https://sounds.mx/media/wysiwyg/Home/mitzu-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="JOHLIK2">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="APVGGP5" data-src="https://sounds.mx/media/wysiwyg/Home/hp-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="V3TDPKC" data-src="https://sounds.mx/media/wysiwyg/Home/hp-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="JOYB8D7">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="UR9LYE7" data-src="https://sounds.mx/media/wysiwyg/Home/acer-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="NSJ8LML" data-src="https://sounds.mx/media/wysiwyg/Home/acer-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="DDM794G">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="EA3J0PV" data-src="https://sounds.mx/media/wysiwyg/Home/coby-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="TK1MPCT" data-src="https://sounds.mx/media/wysiwyg/Home/coby-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="CSA33A3">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="PYCJLU8" data-src="https://sounds.mx/media/wysiwyg/Home/mitzu-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="HKFQX1M" data-src="https://sounds.mx/media/wysiwyg/Home/mitzu-21abr.png" title=""/>
+        </figure>
+        <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="JGUQIK9">  
+         <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="FHBQ7HF" data-src="https://sounds.mx/media/wysiwyg/Home/rca-21abr.png" title=""/>
+         <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="OF8IGYB" data-src="https://sounds.mx/media/wysiwyg/Home/rca-21abr.png" title=""/>
+        </figure>
+       </div>
+      </div>
+      <div data-appearance="default" data-content-type="block" data-element="main">
+       <div class="widget block block-static-block">
+        <style>
+         #html-body [data-pb-style=EUP7BTF],#html-body [data-pb-style=Q8KWJW6]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=Q8KWJW6]{width:25%;align-self:stretch}#html-body [data-pb-style=KHDYSGS]{text-align:center}#html-body [data-pb-style=J7QSR0T],#html-body [data-pb-style=XQDMNTY]{max-width:100%;height:auto}#html-body [data-pb-style=BJ1L6CL]{text-align:center}#html-body [data-pb-style=EJASPX0]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=D7TOPOO]{text-align:center}#html-body [data-pb-style=NEQBSOC],#html-body [data-pb-style=OE8M835]{max-width:100%;height:auto}#html-body [data-pb-style=LTDLFA0]{text-align:center}#html-body [data-pb-style=DL0LMCM]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=CU0NDPO]{text-align:center}#html-body [data-pb-style=REKUCQY],#html-body [data-pb-style=T5YGI7P]{max-width:100%;height:auto}#html-body [data-pb-style=QMII8OI]{text-align:center}#html-body [data-pb-style=YJBOKJW]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=CV0QV16]{text-align:center}#html-body [data-pb-style=QB14SCR],#html-body [data-pb-style=XT1RMR6]{max-width:100%;height:auto}#html-body [data-pb-style=NG1NHA0]{text-align:center}
+        </style>
+        <div data-appearance="contained" data-content-type="row" data-element="main">
+         <div data-background-images="{}" data-background-type="image" data-element="inner" data-enable-parallax="0" data-parallax-speed="0.5" data-pb-style="EUP7BTF" data-video-fallback-src="" data-video-lazy-load="true" data-video-loop="true" data-video-play-only-visible="true">
+          <div class="pagebuilder-column-group" data-content-type="column-group" data-element="main" data-grid-size="12" style="display: flex;">
+           <div class="pagebuilder-column" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="Q8KWJW6">
+            <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="KHDYSGS">
+             <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="J7QSR0T" data-src="https://sounds.mx/media/wysiwyg/Home/seguros-pago.png" title=""/>
+             <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="XQDMNTY" data-src="https://sounds.mx/media/wysiwyg/Home/seguros-pago.png" title=""/>
+            </figure>
+            <h4 data-appearance="default" data-content-type="heading" data-element="main" data-pb-style="BJ1L6CL">   
+             Artículos Garantizados
+            </h4>
+            <div data-appearance="default" data-content-type="text" data-element="main">
+             <p style="text-align: center;">
+              Todos nuestros artículos son revisados y su integridad está garantizada por escrito.
+             </p>
+            </div>
+           </div>
+           <div class="pagebuilder-column" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="EJASPX0">
+            <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="D7TOPOO">
+             <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="OE8M835" data-src="https://sounds.mx/media/wysiwyg/Home/envios-rapidos.png" title=""/>
+             <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="NEQBSOC" data-src="https://sounds.mx/media/wysiwyg/Home/envios-rapidos.png" title=""/>
+            </figure>
+            <h4 data-appearance="default" data-content-type="heading" data-element="main" data-pb-style="LTDLFA0">   
+             Envíos Rápidos
+            </h4>
+            <div data-appearance="default" data-content-type="text" data-element="main">
+             <p style="text-align: center;">
+              ¡La entrega de tu pedido se hará en un plazo máximo de 5 días hábiles!
+             </p>
+            </div>
+           </div>
+           <div class="pagebuilder-column" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="DL0LMCM">
+            <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="CU0NDPO">
+             <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="T5YGI7P" data-src="https://sounds.mx/media/wysiwyg/Home/seguros-pago.png" title=""/>
+             <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="REKUCQY" data-src="https://sounds.mx/media/wysiwyg/Home/seguros-pago.png" title=""/>
+            </figure>
+            <h4 data-appearance="default" data-content-type="heading" data-element="main" data-pb-style="QMII8OI">   
+             Seguridad De Pago
+            </h4>
+            <div data-appearance="default" data-content-type="text" data-element="main">
+             <p style="text-align: center;">
+              Utilizamos métodos de transacciones seguras para que tu compra sea confiable.
+             </p>
+            </div>
+           </div>
+           <div class="pagebuilder-column" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="YJBOKJW">
+            <figure data-appearance="full-width" data-content-type="image" data-element="main" data-pb-style="CV0QV16">
+             <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="XT1RMR6" data-src="https://sounds.mx/media/wysiwyg/Home/servicio-cliente.png" title=""/>
+             <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="QB14SCR" data-src="https://sounds.mx/media/wysiwyg/Home/servicio-cliente.png" title=""/>
+            </figure>
+            <h4 data-appearance="default" data-content-type="heading" data-element="main" data-pb-style="NG1NHA0">   
+             Servicio Al Cliente
+            </h4>
+            <div data-appearance="default" data-content-type="text" data-element="main">
+             <p style="text-align: center;">
+              ¿Tienes alguna duda sobre nuestros servicios o productos? Ponte en contacto con nosotros.
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <script>
+       const rawRequest = "";
+    const searchRequest = rawRequest ? JSON.parse(rawRequest) : null;
+
+    const rawResponse = "";
+    const searchResponse = rawResponse ? JSON.parse(rawResponse) : null;
+
+    const rawExecutionTime = "0";
+    const executionTime = rawExecutionTime ? parseFloat(rawExecutionTime) : null;
+
+    const requestId = "2059acc8\u002Dd485\u002D4a00\u002Dbd1c\u002Df8bc7032be76";
+
+    const rawAttributes = "";
+    const attributes = rawAttributes ? JSON.parse(rawAttributes) : null;
+
+    const rawPageSize = "12";
+    const pageSize = rawPageSize ? parseInt(rawPageSize) : null;
+
+    const customerGroup = "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c";
+
+    window.LiveSearchMetrics = {
+        searchRequest,
+        searchResponse,
+        requestId,
+        executionTime,
+        attributes,
+        pageSize,
+        context: {
+            'customerGroup' : customerGroup
+        }
+    };
+
+    require([
+        "https://livesearch-metrics.magento-ds.com/v0/liveSearchMetrics.js"
+    ]);
+      </script>
+      <script>
+       require(['magentoStorefrontEvents'], function (magentoStorefrontEvents) {
+        if (!magentoStorefrontEvents) return;
+
+        magentoStorefrontEvents.context.setSearchExtension({
+            version: "3.0.1"
+        });
+    });
+      </script>
+     </div>
+    </div>
+    <div data-bind="scope:'product_recommendations_below-main-content'">
+     <!-- ko template: getTemplate() -->
+     <!-- /ko -->
+    </div>
+    <script type="text/x-magento-init">
+     {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "product_recommendations_below-main-content": {
+                            "component": "Magento_ProductRecommendationsLayout/js/layoutRenderer",
+                            "pagePlacement": "below-main-content",
+                            "placeholderUrl": "https://sounds.mx/media/catalog/product/placeholder/default/base.jpg",
+                            "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                            "currencyConfiguration": {"currency":"MXN","rate":1},
+                            "isAlternateEnvironmentEnabled": false                        }
+                    }
+                }
+            }
+        }
+    </script>
+   </main>
+   <footer class="page-footer">
+    <div class="newsletter__container">
+     <div class="block newsletter">
+      <!-- Titulo -->
+      <div class="newsletter__info__container">
+       <div class="logo-nesletter">
+        <img alt="icono email" src="https://sounds.mx/static/version1702399881/frontend/Never8/origen/es_MX/Magento_Newsletter/images/icono-email.svg"/>
+       </div>
+       <div class="textos">
+        <div class="info__titulo">
+         <p>
+          Regístrate a nuestro boletín
+         </p>
+        </div>
+        <div class="info__texto">
+         <p>
+          ¡Recibe las mejores ofertas y sé el primero en saber!
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="newsletter__content">
+       <form action="https://sounds.mx/newsletter/subscriber/new/" class="form subscribe" data-mage-init='{"validation": {"errorClass": "mage-error"}}' id="newsletter-validate-detail" method="post" novalidate="">
+        <div class="field newsletter">
+         <div class="control">
+          <label for="newsletter">
+           <span class="label">
+            Sign Up for Our Newsletter:
+           </span>
+           <input data-mage-init='{"mage/trim-input":{}}' data-validate="{required:true, 'validate-email':true}" id="newsletter" name="email" placeholder=" Ingresa tu correo aquí" type="email"/>
+          </label>
+         </div>
+        </div>
+        <div class="actions">
+         <button aria-label="Subscribe" class="action subscribe primary" title=" ¡Regístrate!" type="submit">        
+          <span>
+           ¡Regístrate!
+          </span>
+         </button>
+        </div>
+       </form>
+      </div>
+     </div>
+     <script type="text/x-magento-init">
+      {
+        "*": {
+            "Magento_Customer/js/block-submit-on-send": {
+                "formId": "newsletter-validate-detail"
+            }
+        }
+    }
+     </script>
+    </div>
+    <div class="footer-content">
+     <style>
+      #html-body [data-pb-style=AXWKXU6]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=AD6MTSB]{align-self:stretch}#html-body [data-pb-style=AD6MTSB],#html-body [data-pb-style=I2U5S74],#html-body [data-pb-style=V8WEP1W]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=I2U5S74]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=V8WEP1W]{align-self:stretch}#html-body [data-pb-style=CU119JL]{display:flex;width:100%}#html-body [data-pb-style=TLAJ7LD]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:16.6667%;align-self:stretch}#html-body [data-pb-style=NDFXBKN],#html-body [data-pb-style=VH0H98K]{max-width:100%;height:auto}#html-body [data-pb-style=H3LEHRC],#html-body [data-pb-style=ICCEJWL],#html-body [data-pb-style=T2KHFTD]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=ICCEJWL],#html-body [data-pb-style=T2KHFTD]{width:33.3333%}#html-body [data-pb-style=T2KHFTD]{width:25%}#html-body [data-pb-style=A9H9WNE],#html-body [data-pb-style=BKVCFN9],#html-body [data-pb-style=CH1D7GG],#html-body [data-pb-style=I6Y1X01],#html-body [data-pb-style=OCWRI1R],#html-body [data-pb-style=W4V5O83]{max-width:100%;height:auto}#html-body [data-pb-style=OK9SVL1]{display:flex;width:100%}#html-body [data-pb-style=EYOKJH6]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:100%;align-self:stretch}#html-body [data-pb-style=ESDSFJK],#html-body [data-pb-style=JRT55TP],#html-body [data-pb-style=NVH6D2K],#html-body [data-pb-style=PQST7GB]{max-width:100%;height:auto}#html-body [data-pb-style=X450FQG]{display:inline-block}#html-body [data-pb-style=BQSCBTB]{text-align:left}#html-body [data-pb-style=JU3SM6E]{display:inline-block}#html-body [data-pb-style=X3MYSBI]{text-align:left}#html-body [data-pb-style=LCN47O2]{display:inline-block}#html-body [data-pb-style=HKJDR2A]{text-align:left}#html-body [data-pb-style=R1PFAS8]{display:inline-block}#html-body [data-pb-style=MNQC73H]{text-align:left}#html-body [data-pb-style=YGF17TH]{display:inline-block}#html-body [data-pb-style=RKIA5X6]{text-align:left}#html-body [data-pb-style=TRIHOWM]{display:inline-block}#html-body [data-pb-style=F3JA10U]{text-align:left}#html-body [data-pb-style=NQ1FMM0]{display:inline-block}#html-body [data-pb-style=LJQIU42]{text-align:left}
+     </style>
+     <div data-appearance="contained" data-content-type="row" data-element="main">
+      <div class="footer__contenido-principal" data-background-images="{}" data-background-type="image" data-element="inner" data-enable-parallax="0" data-parallax-speed="0.5" data-pb-style="AXWKXU6" data-video-fallback-src="" data-video-lazy-load="true" data-video-loop="true" data-video-play-only-visible="true">
+       <div class="pagebuilder-column-group" data-appearance="default" data-background-images="{}" data-content-type="column-group" data-element="main" data-grid-size="12" data-pb-style="AD6MTSB">
+        <div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="CU119JL">
+         <div class="pagebuilder-column footer__logo" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="TLAJ7LD">
+          <figure data-appearance="full-width" data-content-type="image" data-element="main">
+           <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="NDFXBKN" data-src="https://sounds.mx/media/wysiwyg/Home/logo-sounds-21abr.png" title=""/>
+           <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="VH0H98K" data-src="https://sounds.mx/media/wysiwyg/Home/logo-sounds-21abr.png" title=""/>
+          </figure>
+         </div>
+         <div class="pagebuilder-column footer__links" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="H3LEHRC">
+          <h4 class="titulo" data-appearance="default" data-content-type="heading" data-element="main">
+           Información
+          </h4>
+          <div class="footer__links__botones" data-appearance="inline" data-content-type="buttons" data-element="main" data-same-width="false">
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="X450FQG">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="BQSCBTB" href="https://sounds.mx/nosotros" target="">
+             <span data-element="link_text">
+              Sobre Nosotros
+             </span>
+            </a>
+           </div>
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="JU3SM6E">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="X3MYSBI" href="https://sounds.mx/sucursales" target="">
+             <span data-element="link_text">
+              Sucursales
+             </span>
+            </a>
+           </div>
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="LCN47O2">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="HKJDR2A" href="https://sounds.mx/contacto" target="">
+             <span data-element="link_text">
+              Contáctanos
+             </span>
+            </a>
+           </div>
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="R1PFAS8">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="MNQC73H" href="https://sounds.mx/preguntas-frecuentes" target="">
+             <span data-element="link_text">
+              Preguntas Frecuentes
+             </span>
+            </a>
+           </div>
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="YGF17TH">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="RKIA5X6" href="https://sounds.mx/privacidad" target="">
+             <span data-element="link_text">
+              Aviso de Privacidad
+             </span>
+            </a>
+           </div>
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="TRIHOWM">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="F3JA10U" href="https://sounds.mx/terminosycondiciones" target="">
+             <span data-element="link_text">
+              Términos y Condiciones
+             </span>
+            </a>
+           </div>
+           <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="NQ1FMM0">
+            <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="LJQIU42" href="https://sounds.mx/garantias-y-devoluciones" target="">
+             <span data-element="link_text">
+              Garantías y Devoluciones
+             </span>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="pagebuilder-column footer__contactenos" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="ICCEJWL">
+          <h4 class="titulo" data-appearance="default" data-content-type="heading" data-element="main">
+           Contáctenos
+          </h4>
+          <div class="contactenos__datos" data-appearance="default" data-content-type="text" data-element="main">    
+           <p>
+            <strong>
+             Dirección
+            </strong>
+            :
+           </p>
+           <p>
+            Av. Antonio J. Bermudez No. 1550
+           </p>
+           <p>
+            Parque Ind. Antonio J. Bermudez
+           </p>
+           <p>
+            Cd. Juárez, Chihuahua México C.P. 32470
+           </p>
+          </div>
+          <div class="contactenos__datos" data-appearance="default" data-content-type="text" data-element="main">    
+           <p>
+            <strong>
+             Horario Atención
+            </strong>
+            : Lun-Vie 9:30 AM a 7:00 PM
+           </p>
+           <p>
+            Sáb 10:00 AM a 2:00 PM Hora Cd. México
+           </p>
+          </div>
+          <div class="contactenos__datos" data-appearance="default" data-content-type="text" data-element="main">    
+           <p>
+            <strong>
+             email
+            </strong>
+            : ventas@sounds-music.com
+            <br/>
+            <strong>
+             Llámanos
+            </strong>
+            :
+            <a href="tel:(656)%20616%201194">
+             (656) 616 1194
+            </a>
+            Ext. 228
+           </p>
+          </div>
+         </div>
+         <div class="pagebuilder-column footer__redes" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="T2KHFTD">
+          <h4 class="titulo" data-appearance="default" data-content-type="heading" data-element="main">
+           Síguenos
+          </h4>
+          <div data-appearance="default" data-content-type="html" data-decoded="true" data-element="main">
+           <div class="redes-sociales">
+            <a href="https://www.facebook.com/SoundsOficial" target="_blank">
+             <img alt="Facebook" src="https://sounds.mx/media/wysiwyg/iconos/facebook-21abr.png"/>
+            </a>
+            <a href="https://www.instagram.com/soundsmx/" target="_blank">
+             <img alt="Instagram" src="https://sounds.mx/media/wysiwyg/iconos/instagram-21abr.png"/>
+            </a>
+            <a href="https://wa.me/+526566387606" target="_blank">
+             <img alt="Whatsapp" src="https://sounds.mx/media/wysiwyg/iconos/whatsapp-22abril.png"/>
+            </a>
+           </div>
+          </div>
+          <div class="descargaapp-titulo" data-appearance="default" data-content-type="text" data-element="main">    
+           <p>
+            Descarga nuestra app
+           </p>
+          </div>
+          <figure class="descargar-app" data-appearance="full-width" data-content-type="image" data-element="main">  
+           <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="A9H9WNE" data-src="https://sounds.mx/media/wysiwyg/Home/playstore-21abr.png" title=""/>
+           <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="CH1D7GG" data-src="https://sounds.mx/media/wysiwyg/Home/playstore-21abr.png" title=""/>
+          </figure>
+          <h4 class="titulo" data-appearance="default" data-content-type="heading" data-element="main">
+           Tu compra segura
+          </h4>
+          <figure class="sello-confianza" data-appearance="full-width" data-content-type="image" data-element="main">
+           <a data-element="link" data-link-type="default" href="https://sellosdeconfianza.org.mx/MuestraCertificado.php?NUMERO_SERIE=MD_v052" target="_blank" title="">
+            <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="OCWRI1R" data-src="https://sounds.mx/media/wysiwyg/SELLO-24.jpg" title=""/>
+            <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="BKVCFN9" data-src="https://sounds.mx/media/wysiwyg/SELLO-24.jpg" title=""/>
+           </a>
+          </figure>
+          <figure data-appearance="full-width" data-content-type="image" data-element="main">
+           <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="W4V5O83" data-src="https://sounds.mx/media/wysiwyg/Home/comprasegura-21abr.png" title=""/>
+           <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="I6Y1X01" data-src="https://sounds.mx/media/wysiwyg/Home/comprasegura-21abr.png" title=""/>
+          </figure>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div data-appearance="contained" data-content-type="row" data-element="main">
+      <div class="footer__contenido-secundario" data-background-images="{}" data-background-type="image" data-element="inner" data-enable-parallax="0" data-parallax-speed="0.5" data-pb-style="I2U5S74" data-video-fallback-src="" data-video-lazy-load="true" data-video-loop="true" data-video-play-only-visible="true">
+       <div class="pagebuilder-column-group" data-appearance="default" data-background-images="{}" data-content-type="column-group" data-element="main" data-grid-size="12" data-pb-style="V8WEP1W">
+        <div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OK9SVL1">
+         <div class="pagebuilder-column footer__formasdepago" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="EYOKJH6">
+          <h4 class="titulo" data-appearance="default" data-content-type="heading" data-element="main">
+           Formas de pago
+          </h4>
+          <figure class="tarjetas" data-appearance="full-width" data-content-type="image" data-element="main">       
+           <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="PQST7GB" data-src="https://sounds.mx/media/wysiwyg/Home/tarjetas-21abr.png" title=""/>
+           <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="NVH6D2K" data-src="https://sounds.mx/media/wysiwyg/Home/tarjetas-21abr.png" title=""/>
+          </figure>
+          <figure class="tiendas" data-appearance="full-width" data-content-type="image" data-element="main">        
+           <img alt="" class="lazyload pagebuilder-mobile-hidden" data-element="desktop_image" data-pb-style="ESDSFJK" data-src="https://sounds.mx/media/wysiwyg/Home/establecimientos-21abr.png" title=""/>
+           <img alt="" class="lazyload pagebuilder-mobile-only" data-element="mobile_image" data-pb-style="JRT55TP" data-src="https://sounds.mx/media/wysiwyg/Home/establecimientos-21abr.png" title=""/>
+          </figure>
+         </div>
+        </div>
+       </div>
+       <div data-appearance="default" data-content-type="html" data-decoded="true" data-element="main">
+        <!-- Start of soundshometech Zendesk Widget script -->
+        <!-- script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=ebd07441-942e-481f-85f9-ecc3299da0a1"> </script -->
+        <!-- End of soundshometech Zendesk Widget script -->
+       </div>
+      </div>
+     </div>
+     <div data-appearance="default" data-content-type="html" data-decoded="true" data-element="main">
+      <!-- Sendinblue Conversations {literal} -->
+      <script>
+       (function(d, w, c) {
+
+        w.SibConversationsID = '625723648141622fa91b3ab5';
+
+        w[c] = w[c] || function() {
+
+            (w[c].q = w[c].q || []).push(arguments);
+
+        };
+
+        var s = d.createElement('script');
+
+        s.async = true;
+
+        s.src = 'https://conversations-widget.sendinblue.com/sib-conversations.js';
+
+        if (d.head) d.head.appendChild(s);
+
+    })(document, window, 'SibConversations');
+      </script>
+      <!-- /Sendinblue Conversations {/literal} -->
+     </div>
+    </div>
+   </footer>
+   <script defer="" type="text/javascript">
+    require(['jquery',
+                "Ves_All/lib/bootstrap/js/bootstrap.min"
+    ], function ($) {
+        if($(".ves-megamenu").length > 0) {
+                $(".ves-megamenu").each(function(){
+                    if($(this).find('.nav-anchor').length > 0){
+                        $(this).find('.nav-anchor').each(function(index, el) {
+                            if ($(this).attr('href') == 'https://sounds.mx') {
+                                $(this).parent().addClass('active');
+                                $(this).parents(".nav-item.parent").addClass('active');
+                                $(this).parents(".nav-item.dropdown-submenu").addClass('active');
+                                if($(this).find(".ves-caret.fa.fa-plus").length > 0){
+                                    var caret_obj = $(this).find(".ves-caret").first();
+                                    $(caret_obj).removeClass("fa-plus").addClass("fa-minus").addClass("item-active");
+                                }
+                                if($(this).parents(".nav-item.parent").length > 0){
+                                    $(this).parents(".nav-item.parent").each(function(index2, el2){
+                                        if($(this).children(".nav-anchor").length >0 && $(this).children(".nav-anchor").children(".ves-caret.fa.fa-plus").length > 0){
+                                            var caret_obj2 = $(this).children(".nav-anchor").children(".ves-caret.fa.fa-plus").first();
+                                            $(caret_obj2).removeClass("fa-plus").addClass("fa-minus").addClass("item-active");
+                                        }
+                                    })
+                                }
+                                if($(this).parents(".nav-item.dropdown-submenu").length > 0){
+                                    $(this).parents(".nav-item.dropdown-submenu").each(function(index2, el2){        
+                                        if($(this).children(".dropdown-menu").length > 0) {
+                                            $(this).addClass("current");
+                                        }
+                                        if($(this).children(".nav-anchor").length >0 && $(this).children(".nav-anchor").children(".ves-caret.fa.fa-plus").length > 0){
+                                            var caret_obj2 = $(this).children(".nav-anchor").children(".ves-caret.fa.fa-plus").first();
+                                            $(caret_obj2).removeClass("fa-plus").addClass("fa-minus").addClass("item-active");
+                                        }
+                                    })
+                                }
+                            }
+                    });
+                    }
+                })
+
+            }
+        $(document).ready(function() {
+            if (jQuery(".megamenuowl-play").length > 0 ) {
+                require([
+                    'jquery',
+                                        'Ves_All/lib/owl.carousel/owl.carousel.min'
+                                ], function ($) {
+                    $(".ves-megamenu .nav-item.level0").hover(function() {
+                        $(this).find('.megamenuowl-play').each(function() {
+                            if (!$(this).hasClass('hasOwl')) {
+                                var owlCarousel = jQuery(this).find(".owl-carousel");
+                                var owlId = jQuery(owlCarousel).attr("id");
+                                jQuery(this).addClass("hasOwl");
+                                var config = [];
+                                if (typeof(jQuery(owlCarousel).data('nav'))!='undefined') {
+                                    config['nav'] = jQuery(owlCarousel).data('nav');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('dot'))!='undefined') {
+                                    config['dot'] = jQuery(owlCarousel).data('dot');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('autoplay'))!='undefined') {
+                                    config['autoplay'] = jQuery(owlCarousel).data('autoplay');
+                                }
+                                if (jQuery(owlCarousel).data('autoplay-timeout')) {
+                                    config['autoplayTimeout'] = jQuery(owlCarousel).data('autoplay-timeout');        
+                                }
+                                if (jQuery(owlCarousel).data('autoplay-pauonhover')) {
+                                    config['autoplayHoverPause'] = jQuery(owlCarousel).data('autoplay-pauonhover');  
+                                }
+                                if (typeof(jQuery(owlCarousel).data('rtl'))!='undefined') {
+                                    config['rtl'] = jQuery(owlCarousel).data('rtl');
+                                }
+                                if (jQuery(owlCarousel).data('items')) {
+
+                                    config['items'] = jQuery(owlCarousel).data('items');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('loop'))!='undefined') {
+                                    config['loop'] = jQuery(owlCarousel).data('loop');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('mousedrag'))!='undefined') {
+                                    config['mouseDrag'] = jQuery(owlCarousel).data('mousedrag');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('pulldrag'))!='undefined') {
+                                    config['pullDrag'] = jQuery(owlCarousel).data('pulldrag');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('stagepadding'))!='undefined') {
+                                    config['stagePadding'] = jQuery(owlCarousel).data('stagepadding');
+                                }
+                                if (typeof(jQuery(owlCarousel).data('lazyload'))!='undefined') {
+                                    config['lazyLoad'] = jQuery(owlCarousel).data('lazyload');
+                                }
+                                if (jQuery(owlCarousel).data('margin')) {
+                                    config['margin'] = jQuery(owlCarousel).data('margin');
+                                }
+                                var mobile_items = 1;
+                                if (jQuery(owlCarousel).data('mobile-items')) {
+                                    mobile_items = jQuery(owlCarousel).data('mobile-items');
+                                }
+                                var tablet_small_items = 3;
+                                if (jQuery(owlCarousel).data('tablet-small-items')) {
+                                    tablet_small_items = jQuery(owlCarousel).data('tablet-small-items');
+                                }
+                                var tablet_items = 3;
+                                if (jQuery(owlCarousel).data('tablet-items')) {
+                                    tablet_items = jQuery(owlCarousel).data('tablet-items');
+                                }
+                                var portrait_items = 4;
+                                if (jQuery(owlCarousel).data('portrait-items')) {
+                                    portrait_items = jQuery(owlCarousel).data('portrait-items');
+                                }
+                                var large_items = 5;
+                                if (jQuery(owlCarousel).data('large-items')) {
+                                    large_items = jQuery(owlCarousel).data('large-items');
+                                }
+                                var large_max_items = 6;
+                                if (jQuery(owlCarousel).data('large-max-items')) {
+                                    large_max_items = jQuery(owlCarousel).data('large-max-items');
+                                }
+                                config['responsive'] = {
+                                    0 : {items: mobile_items},
+                                    480 : {items: tablet_small_items},
+                                    640 : {items: tablet_items},
+                                    768 : {items: portrait_items},
+                                    980 : {items: large_items},
+                                    1200 : {items: large_max_items}
+                                };
+                                jQuery(owlCarousel).owlCarousel(config);
+                                jQuery(".owl-left").click(function() {
+                                    var owlCarousel = jQuery("#"+jQuery(this).data("owlid"));
+                                    owlCarousel.trigger('prev.owl.carousel');
+                                    return false;
+                                });
+                                jQuery(".owl-right").click(function() {
+                                    var owlCarousel = jQuery("#"+jQuery(this).data("owlid"));
+                                    owlCarousel.trigger('next.owl.carousel');
+                                    return false;
+                                });
+                            }
+                        });
+
+                    });
+                });
+            }
+        })
+    });
+   </script>
+   <script type="text/x-magento-init">
+    {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/sounds.mx\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"36000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/sounds.mx\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/sounds.mx\/rest\/default\/V1\/products-render-info"},"requestConfig":{"syncUrl":"https:\/\/sounds.mx\/catalog\/product\/frontend_action_synchronize\/"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+   </script>
+   <script>
+    require(['jquery', 'Magento_Customer/js/customer-data'], function ($, customerData) {
+        var sections = ['cart'];
+        setTimeout(function () {
+            customerData.reload(sections, true);
+        }, 3000);
+    });
+   </script>
+   <script>
+    require(['magentoStorefrontEvents'], function (magentoStorefrontEvents) {
+        if(!magentoStorefrontEvents) return;
+
+        magentoStorefrontEvents.context.setPage({
+            pageType: "CMS"
+        });
+        magentoStorefrontEvents.context.setContext("pageExtended", {
+            action: "view"
+        });
+    });
+   </script>
+   <small class="copyright">
+    <style>
+     #html-body [data-pb-style=C8G03SR],#html-body [data-pb-style=U1A3DBG]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=U1A3DBG]{width:41.6667%;align-self:stretch}#html-body [data-pb-style=WHXJ593]{display:none}#html-body [data-pb-style=WC2WDUD]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:58.3333%;align-self:stretch}#html-body [data-pb-style=MNQXT91]{display:inline-block}#html-body [data-pb-style=OS2ANGO]{text-align:center}#html-body [data-pb-style=CL7MT3B]{display:inline-block}#html-body [data-pb-style=OM1L54N]{text-align:center}
+    </style>
+    <div data-appearance="contained" data-content-type="row" data-element="main">
+     <div data-background-images="{}" data-background-type="image" data-element="inner" data-enable-parallax="0" data-parallax-speed="0.5" data-pb-style="C8G03SR" data-video-fallback-src="" data-video-lazy-load="true" data-video-loop="true" data-video-play-only-visible="true">
+      <div class="pagebuilder-column-group" data-content-type="column-group" data-element="main" data-grid-size="12" style="display: flex;">
+       <div class="pagebuilder-column copyright__info" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="U1A3DBG">
+        <div data-appearance="default" data-content-type="html" data-decoded="true" data-element="main" data-pb-style="WHXJ593">
+         <p class="copyright__text">
+          SOUNDS © 2020-2022. Todos los derechos reservados.
+         </p>
+        </div>
+        <div class="copyright__text" data-appearance="default" data-content-type="text" data-element="main">
+         <p>
+          SOUNDS © 2020-2022. Todos los derechos reservados.
+         </p>
+        </div>
+       </div>
+       <div class="pagebuilder-column botones" data-appearance="full-height" data-background-images="{}" data-content-type="column" data-element="main" data-pb-style="WC2WDUD">
+        <div class="copyright__links" data-appearance="inline" data-content-type="buttons" data-element="main" data-same-width="false">
+         <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="MNQXT91"> 
+          <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="OS2ANGO" href="https://sounds.mx/privacidad" target="">
+           <span data-element="link_text">
+            Aviso de Privacidad
+           </span>
+          </a>
+         </div>
+         <div data-appearance="default" data-content-type="button-item" data-element="main" data-pb-style="CL7MT3B"> 
+          <a class="pagebuilder-button-link" data-element="link" data-link-type="page" data-pb-style="OM1L54N" href="https://sounds.mx/terminosycondiciones" target="">
+           <span data-element="link_text">
+            Términos y Condiciones
+           </span>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </small>
+  </div>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-0e36da5323dcfe14ad6","applicationID":"1020015892","transactionName":"YwEHbUIFWRVQB0MKDlpLJFpEDVgIHgdaEE5dCgFcSEteCFUBTw==","queueTime":0,"applicationTime":1375,"atts":"T0YEGwofShs=","errorBeacon":"bam.nr-data.net","agent":""}
+  </script>
+ </body>
+</html>
