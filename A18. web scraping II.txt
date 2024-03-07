@@ -1,0 +1,18 @@
+from bs4 import BeautifulSoup
+import requests
+
+website = 'https://subslikescript.com/movie/13_Ghosts-53559'
+results = requests.get(website)
+content = results.text
+
+soup = BeautifulSoup(content, 'html.parser')
+
+box = soup.find('article', class_='main-article')
+
+title = box.find('h1').get_text()
+transcript = box.find('div', class_='full-script').get_text(strip=True, separator='\n').split('\n')
+
+print("Título:", title)
+print("\nGuion:")
+for line in transcript:
+    print(line)
